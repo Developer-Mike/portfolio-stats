@@ -14,22 +14,52 @@ const projects: Project = {
       id: "com.mike.standartstats"
     }
   ],
-  "advanced-canvas": [
+  "what": [
+    {
+      service: "play-store-app",
+      id: "com.mike.what"
+    }
+  ],
+  "obsidian-advanced-canvas": [
     {
       service: "obsidian-plugin",
       id: "advanced-canvas"
     }
   ],
-  "docxer": [
+  "obsidian-docxer": [
     {
       service: "obsidian-plugin",
       id: "docxer"
     }
   ],
-  "calctex": [
+  "obsidian-calctex": [
     {
       service: "obsidian-plugin",
       id: "calctex"
+    }
+  ],
+  "mc-autototem": [
+    {
+      service: "modrinth-mod",
+      id: "autototem"
+    }
+  ],
+  "mc-clear-enchanting": [
+    {
+      service: "modrinth-mod",
+      id: "clear-enchanting"
+    }
+  ],
+  "mc-torch": [
+    {
+      service: "modrinth-mod",
+      id: "vision"
+    }
+  ],
+  "mc-anticheat": [
+    {
+      service: "modrinth-mod",
+      id: "anticheat"
     }
   ],
 }
