@@ -1,0 +1,17 @@
+{
+  "name": "profile-stats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "npx tsc && node dist/main.js"
+  },
+  "author": "mika.dev",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "tslib": "^2.8.1"
+  }
+}
