@@ -12,12 +12,14 @@
   "author": "mika.dev",
   "license": "MIT",
   "devDependencies": {
+    "@types/json-stable-stringify": "^1.2.0",
     "ts-loader": "^9.5.2",
     "typescript": "^5.7.3",
     "webpack": "^5.97.1",
     "webpack-cli": "^6.0.1"
   },
   "dependencies": {
+    "json-stable-stringify": "^1.2.1",
     "tslib": "^2.8.1"
   }
 }

@@ -1,6 +1,7 @@
+import fs from "fs/promises"
+import JSONSS from "json-stable-stringify"
 import serviceFetchMappings from "./service-fetch-mappings"
 import projects from "./data/projects"
-import fs from "fs/promises"
 import { ProjectStatsFile, TotalStatsFile } from "./@types/exports"
 
 // Fetch data for each project
@@ -46,7 +47,7 @@ for (const projectId in todaysDownloads) {
     "per-service-total": projectDownloads
   }
 }
-await fs.writeFile(totalStatsFilepath, JSON.stringify(totalStatsJson, null, 2))
+await fs.writeFile(totalStatsFilepath, JSONSS(totalStatsJson, { space: 2 }) ?? "{}")
 
 // Save the data to the stats/projects/{projectId}.json files
 const date = new Date().toISOString().split("T")[0]
@@ -68,7 +69,7 @@ for (const projectId in todaysDownloads) {
   projectStatsJson.daily[date] = projectDownloads
 
   // Save the updated stats
-  await fs.writeFile(projectStatsFilepath, JSON.stringify(projectStatsJson, null, 2))
+  await fs.writeFile(projectStatsFilepath, JSONSS(projectStatsJson, { space: 2 }) ?? "{}")
 }
 
 // Log a success message
