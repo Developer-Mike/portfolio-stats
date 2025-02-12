@@ -5,34 +5,16 @@
       "obsidian-plugin": 5073
     }
   },
-  "mc-torch": {
-    "total": 4987,
-    "per-service-total": {
-      "modrinth-mod": 4987
-    }
-  },
   "obsidian-advanced-canvas": {
     "total": 126122,
     "per-service-total": {
       "obsidian-plugin": 126122
     }
   },
-  "mc-clear-enchanting": {
-    "total": 5647,
-    "per-service-total": {
-      "modrinth-mod": 5647
-    }
-  },
   "obsidian-docxer": {
     "total": 15472,
     "per-service-total": {
       "obsidian-plugin": 15472
-    }
-  },
-  "fn-track": {
-    "total": 445109,
-    "per-service-total": {
-      "play-store-app": 445109
     }
   },
   "what": {
@@ -47,10 +29,28 @@
       "modrinth-mod": 185944
     }
   },
+  "fn-track": {
+    "total": 445109,
+    "per-service-total": {
+      "play-store-app": 445109
+    }
+  },
+  "mc-torch": {
+    "total": 4987,
+    "per-service-total": {
+      "modrinth-mod": 4987
+    }
+  },
   "mc-anticheat": {
     "total": 1890,
     "per-service-total": {
       "modrinth-mod": 1890
+    }
+  },
+  "mc-clear-enchanting": {
+    "total": 5647,
+    "per-service-total": {
+      "modrinth-mod": 5647
     }
   }
 }
