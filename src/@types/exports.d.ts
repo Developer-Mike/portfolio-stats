@@ -1,7 +1,19 @@
+import { Service } from "./services"
+
 export type TotalStatsFile = {
-  [projectId: string]: number
+  [projectId: string]: {
+    total: number
+  } & {
+    [service in Service]: number
+  }
 }
 
 export type ProjectStatsFile = {
-  [date: string]: number
+  total: number
+
+  daily: {
+    [date: string]: {
+      [service in Service]: number
+    }
+  }
 }

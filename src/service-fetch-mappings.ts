@@ -1,9 +1,9 @@
-const serviceFetchMappings = {
+import { ServiceFetchMappings } from "./@types/services"
+
+const serviceFetchMappings: ServiceFetchMappings = {
   "play-store-app": fetchPlayStoreAppData,
   "obsidian-plugin": fetchObsidianPluginData,
   "modrinth-mod": fetchModrinthModData,
-} as const satisfies {
-  [service: string]: (id: string) => Promise<number>
 }
 
 async function fetchPlayStoreAppData(id: string): Promise<number> {

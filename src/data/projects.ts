@@ -1,67 +1,62 @@
-import serviceFetchMappings from "../service-fetch-mappings"
+import { Project } from "../@types/projects"
 
-export interface Project {
-  [projectId: string]: {
-    service: keyof typeof serviceFetchMappings
-    id: string
-  }[]
-}
-
-const projects: Project = {
+const projects: { 
+  [projectId: string]: Project[]
+} = {
   "fn-track": [
     {
       service: "play-store-app",
-      id: "com.mike.standartstats"
+      fetchId: "com.mike.standartstats"
     }
   ],
   "what": [
     {
       service: "play-store-app",
-      id: "com.mike.what"
+      fetchId: "com.mike.what"
     }
   ],
   "obsidian-advanced-canvas": [
     {
       service: "obsidian-plugin",
-      id: "advanced-canvas"
+      fetchId: "advanced-canvas"
     }
   ],
   "obsidian-docxer": [
     {
       service: "obsidian-plugin",
-      id: "docxer"
+      fetchId: "docxer"
     }
   ],
   "obsidian-calctex": [
     {
       service: "obsidian-plugin",
-      id: "calctex"
+      fetchId: "calctex"
     }
   ],
   "mc-autototem": [
     {
       service: "modrinth-mod",
-      id: "autototem"
+      fetchId: "autototem"
     }
   ],
   "mc-clear-enchanting": [
     {
       service: "modrinth-mod",
-      id: "clear-enchanting"
+      fetchId: "clear-enchanting"
     }
   ],
   "mc-torch": [
     {
       service: "modrinth-mod",
-      id: "vision"
+      fetchId: "vision"
     }
   ],
   "mc-anticheat": [
     {
       service: "modrinth-mod",
-      id: "anticheat"
+      fetchId: "anticheat"
     }
   ],
-}
+} as const
 
 export default projects
