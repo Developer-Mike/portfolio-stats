@@ -1,4 +1,4 @@
-import serviceFetchMappings from "./project-types"
+import serviceFetchMappings from "../service-fetch-mappings"
 
 export interface Project {
   [projectId: string]: {
@@ -63,3 +63,5 @@ const projects: Project = {
     }
   ],
 }
+
+export default projects
