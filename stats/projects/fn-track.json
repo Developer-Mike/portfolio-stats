@@ -1,11 +1,11 @@
 {
-  "total": 445109,
-  "per-service-total": {
-    "play-store-app": 445109
-  },
   "daily": {
     "2025-02-12": {
       "play-store-app": 445109
     }
-  }
+  },
+  "per-service-total": {
+    "play-store-app": 445109
+  },
+  "total": 445109
 }

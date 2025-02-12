@@ -1,11 +1,11 @@
 {
-  "total": 71,
-  "per-service-total": {
-    "play-store-app": 71
-  },
   "daily": {
     "2025-02-12": {
       "play-store-app": 71
     }
-  }
+  },
+  "per-service-total": {
+    "play-store-app": 71
+  },
+  "total": 71
 }

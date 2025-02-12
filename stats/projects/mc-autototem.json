@@ -1,11 +1,11 @@
 {
-  "total": 185944,
-  "per-service-total": {
-    "modrinth-mod": 185944
-  },
   "daily": {
     "2025-02-12": {
       "modrinth-mod": 185944
     }
-  }
+  },
+  "per-service-total": {
+    "modrinth-mod": 185944
+  },
+  "total": 185944
 }
