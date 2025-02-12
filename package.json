@@ -1,7 +1,7 @@
 {
   "name": "profile-stats",
   "version": "1.0.0",
-  "description": "",
+  "description": "Fetch and save project stats daily and save them in a GitHub repository.",
   "main": "src/main.js",
   "type": "module",
   "scripts": {
