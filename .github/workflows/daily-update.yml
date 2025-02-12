@@ -6,7 +6,6 @@ on:
 
 jobs:
   update-stats-and-push:
-    if: false # Disable this job for now
     runs-on: ubuntu-latest
 
     permissions:

@@ -1,0 +1,11 @@
+{
+  "total": 15472,
+  "per-service-total": {
+    "obsidian-plugin": 15472
+  },
+  "daily": {
+    "2025-02-12": {
+      "obsidian-plugin": 15472
+    }
+  }
+}
