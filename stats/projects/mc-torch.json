@@ -2,10 +2,13 @@
   "daily": {
     "2025-02-12": {
       "modrinth-mod": 4987
+    },
+    "2025-02-13": {
+      "modrinth-mod": 4988
     }
   },
   "per-service-total": {
-    "modrinth-mod": 4987
+    "modrinth-mod": 4988
   },
-  "total": 4987
+  "total": 4988
 }
