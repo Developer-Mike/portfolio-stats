@@ -14,10 +14,13 @@
     },
     "2025-02-16": {
       "obsidian-plugin": 15777
+    },
+    "2025-02-17": {
+      "obsidian-plugin": 15847
     }
   },
   "per-service-total": {
-    "obsidian-plugin": 15777
+    "obsidian-plugin": 15847
   },
-  "total": 15777
+  "total": 15847
 }
