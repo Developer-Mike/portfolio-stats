@@ -7,45 +7,45 @@
   },
   "mc-anticheat": {
     "per-service-total": {
-      "modrinth-mod": 1935
+      "modrinth-mod": 1942
     },
-    "total": 1935
+    "total": 1942
   },
   "mc-autototem": {
     "per-service-total": {
-      "modrinth-mod": 189732
+      "modrinth-mod": 190334
     },
-    "total": 189732
+    "total": 190334
   },
   "mc-clear-enchanting": {
     "per-service-total": {
-      "modrinth-mod": 5688
+      "modrinth-mod": 5699
     },
-    "total": 5688
+    "total": 5699
   },
   "mc-torch": {
     "per-service-total": {
-      "modrinth-mod": 5022
+      "modrinth-mod": 5029
     },
-    "total": 5022
+    "total": 5029
   },
   "obsidian-advanced-canvas": {
     "per-service-total": {
-      "obsidian-plugin": 132177
+      "obsidian-plugin": 133731
     },
-    "total": 132177
+    "total": 133731
   },
   "obsidian-calctex": {
     "per-service-total": {
-      "obsidian-plugin": 5153
+      "obsidian-plugin": 5171
     },
-    "total": 5153
+    "total": 5171
   },
   "obsidian-docxer": {
     "per-service-total": {
-      "obsidian-plugin": 15933
+      "obsidian-plugin": 16016
     },
-    "total": 15933
+    "total": 16016
   },
   "what": {
     "per-service-total": {
