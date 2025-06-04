@@ -1,51 +1,51 @@
 {
   "fn-track": {
     "per-service-total": {
-      "play-store-app": 466947
+      "play-store-app": 467052
     },
-    "total": 466947
+    "total": 467052
   },
   "mc-anticheat": {
     "per-service-total": {
-      "modrinth-mod": 2733
+      "modrinth-mod": 2747
     },
-    "total": 2733
+    "total": 2747
   },
   "mc-autototem": {
     "per-service-total": {
-      "modrinth-mod": 279599
+      "modrinth-mod": 280516
     },
-    "total": 279599
+    "total": 280516
   },
   "mc-clear-enchanting": {
     "per-service-total": {
-      "modrinth-mod": 6321
+      "modrinth-mod": 6322
     },
-    "total": 6321
+    "total": 6322
   },
   "mc-torch": {
     "per-service-total": {
-      "modrinth-mod": 5956
+      "modrinth-mod": 5960
     },
-    "total": 5956
+    "total": 5960
   },
   "obsidian-advanced-canvas": {
     "per-service-total": {
-      "obsidian-plugin": 223058
+      "obsidian-plugin": 224269
     },
-    "total": 223058
+    "total": 224269
   },
   "obsidian-calctex": {
     "per-service-total": {
-      "obsidian-plugin": 6220
+      "obsidian-plugin": 6229
     },
-    "total": 6220
+    "total": 6229
   },
   "obsidian-docxer": {
     "per-service-total": {
-      "obsidian-plugin": 27590
+      "obsidian-plugin": 27681
     },
-    "total": 27590
+    "total": 27681
   },
   "what": {
     "per-service-total": {
