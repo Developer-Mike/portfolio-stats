@@ -383,10 +383,13 @@
     },
     "2025-06-19": {
       "play-store-app": 77
+    },
+    "2025-06-20": {
+      "play-store-app": 78
     }
   },
   "per-service-total": {
-    "play-store-app": 77
+    "play-store-app": 78
   },
-  "total": 77
+  "total": 78
 }
