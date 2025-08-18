@@ -1,5 +1,1487 @@
 {
   "daily": {
+    "2023-10-07": {
+      "obsidian-plugin": 11
+    },
+    "2023-10-08": {
+      "obsidian-plugin": 41
+    },
+    "2023-10-09": {
+      "obsidian-plugin": 62
+    },
+    "2023-10-10": {
+      "obsidian-plugin": 80
+    },
+    "2023-10-11": {
+      "obsidian-plugin": 95
+    },
+    "2023-10-12": {
+      "obsidian-plugin": 107
+    },
+    "2023-10-13": {
+      "obsidian-plugin": 117
+    },
+    "2023-10-14": {
+      "obsidian-plugin": 131
+    },
+    "2023-10-15": {
+      "obsidian-plugin": 143
+    },
+    "2023-10-16": {
+      "obsidian-plugin": 157
+    },
+    "2023-10-17": {
+      "obsidian-plugin": 166
+    },
+    "2023-10-18": {
+      "obsidian-plugin": 178
+    },
+    "2023-10-19": {
+      "obsidian-plugin": 195
+    },
+    "2023-10-20": {
+      "obsidian-plugin": 211
+    },
+    "2023-10-21": {
+      "obsidian-plugin": 225
+    },
+    "2023-10-22": {
+      "obsidian-plugin": 242
+    },
+    "2023-10-23": {
+      "obsidian-plugin": 258
+    },
+    "2023-10-24": {
+      "obsidian-plugin": 269
+    },
+    "2023-10-25": {
+      "obsidian-plugin": 285
+    },
+    "2023-10-26": {
+      "obsidian-plugin": 305
+    },
+    "2023-10-27": {
+      "obsidian-plugin": 325
+    },
+    "2023-10-28": {
+      "obsidian-plugin": 345
+    },
+    "2023-10-29": {
+      "obsidian-plugin": 363
+    },
+    "2023-10-30": {
+      "obsidian-plugin": 380
+    },
+    "2023-10-31": {
+      "obsidian-plugin": 395
+    },
+    "2023-11-01": {
+      "obsidian-plugin": 414
+    },
+    "2023-11-02": {
+      "obsidian-plugin": 430
+    },
+    "2023-11-03": {
+      "obsidian-plugin": 446
+    },
+    "2023-11-04": {
+      "obsidian-plugin": 460
+    },
+    "2023-11-05": {
+      "obsidian-plugin": 478
+    },
+    "2023-11-06": {
+      "obsidian-plugin": 496
+    },
+    "2023-11-07": {
+      "obsidian-plugin": 496
+    },
+    "2023-11-08": {
+      "obsidian-plugin": 530
+    },
+    "2023-11-09": {
+      "obsidian-plugin": 550
+    },
+    "2023-11-10": {
+      "obsidian-plugin": 567
+    },
+    "2023-11-11": {
+      "obsidian-plugin": 582
+    },
+    "2023-11-12": {
+      "obsidian-plugin": 596
+    },
+    "2023-11-13": {
+      "obsidian-plugin": 618
+    },
+    "2023-11-14": {
+      "obsidian-plugin": 631
+    },
+    "2023-11-15": {
+      "obsidian-plugin": 648
+    },
+    "2023-11-16": {
+      "obsidian-plugin": 673
+    },
+    "2023-11-17": {
+      "obsidian-plugin": 688
+    },
+    "2023-11-18": {
+      "obsidian-plugin": 705
+    },
+    "2023-11-19": {
+      "obsidian-plugin": 718
+    },
+    "2023-11-20": {
+      "obsidian-plugin": 736
+    },
+    "2023-11-21": {
+      "obsidian-plugin": 750
+    },
+    "2023-11-22": {
+      "obsidian-plugin": 768
+    },
+    "2023-11-23": {
+      "obsidian-plugin": 781
+    },
+    "2023-11-24": {
+      "obsidian-plugin": 799
+    },
+    "2023-11-25": {
+      "obsidian-plugin": 811
+    },
+    "2023-11-26": {
+      "obsidian-plugin": 828
+    },
+    "2023-11-27": {
+      "obsidian-plugin": 846
+    },
+    "2023-11-28": {
+      "obsidian-plugin": 861
+    },
+    "2023-11-29": {
+      "obsidian-plugin": 873
+    },
+    "2023-11-30": {
+      "obsidian-plugin": 892
+    },
+    "2023-12-01": {
+      "obsidian-plugin": 910
+    },
+    "2023-12-02": {
+      "obsidian-plugin": 926
+    },
+    "2023-12-03": {
+      "obsidian-plugin": 941
+    },
+    "2023-12-04": {
+      "obsidian-plugin": 961
+    },
+    "2023-12-05": {
+      "obsidian-plugin": 979
+    },
+    "2023-12-06": {
+      "obsidian-plugin": 999
+    },
+    "2023-12-07": {
+      "obsidian-plugin": 1013
+    },
+    "2023-12-08": {
+      "obsidian-plugin": 1025
+    },
+    "2023-12-09": {
+      "obsidian-plugin": 1050
+    },
+    "2023-12-10": {
+      "obsidian-plugin": 1075
+    },
+    "2023-12-11": {
+      "obsidian-plugin": 1095
+    },
+    "2023-12-12": {
+      "obsidian-plugin": 1114
+    },
+    "2023-12-13": {
+      "obsidian-plugin": 1131
+    },
+    "2023-12-14": {
+      "obsidian-plugin": 1150
+    },
+    "2023-12-15": {
+      "obsidian-plugin": 1165
+    },
+    "2023-12-16": {
+      "obsidian-plugin": 1189
+    },
+    "2023-12-17": {
+      "obsidian-plugin": 1207
+    },
+    "2023-12-18": {
+      "obsidian-plugin": 1223
+    },
+    "2023-12-19": {
+      "obsidian-plugin": 1223
+    },
+    "2023-12-20": {
+      "obsidian-plugin": 1257
+    },
+    "2023-12-21": {
+      "obsidian-plugin": 1274
+    },
+    "2023-12-22": {
+      "obsidian-plugin": 1293
+    },
+    "2023-12-23": {
+      "obsidian-plugin": 1309
+    },
+    "2023-12-24": {
+      "obsidian-plugin": 1336
+    },
+    "2023-12-25": {
+      "obsidian-plugin": 1365
+    },
+    "2023-12-26": {
+      "obsidian-plugin": 1386
+    },
+    "2023-12-27": {
+      "obsidian-plugin": 1404
+    },
+    "2023-12-28": {
+      "obsidian-plugin": 1426
+    },
+    "2023-12-29": {
+      "obsidian-plugin": 1447
+    },
+    "2023-12-30": {
+      "obsidian-plugin": 1466
+    },
+    "2023-12-31": {
+      "obsidian-plugin": 1489
+    },
+    "2024-01-01": {
+      "obsidian-plugin": 1506
+    },
+    "2024-01-02": {
+      "obsidian-plugin": 1526
+    },
+    "2024-01-03": {
+      "obsidian-plugin": 1543
+    },
+    "2024-01-04": {
+      "obsidian-plugin": 1559
+    },
+    "2024-01-05": {
+      "obsidian-plugin": 1579
+    },
+    "2024-01-06": {
+      "obsidian-plugin": 1598
+    },
+    "2024-01-07": {
+      "obsidian-plugin": 1625
+    },
+    "2024-01-08": {
+      "obsidian-plugin": 1653
+    },
+    "2024-01-09": {
+      "obsidian-plugin": 1679
+    },
+    "2024-01-10": {
+      "obsidian-plugin": 1705
+    },
+    "2024-01-11": {
+      "obsidian-plugin": 1724
+    },
+    "2024-01-12": {
+      "obsidian-plugin": 1743
+    },
+    "2024-01-13": {
+      "obsidian-plugin": 1761
+    },
+    "2024-01-14": {
+      "obsidian-plugin": 1784
+    },
+    "2024-01-15": {
+      "obsidian-plugin": 1808
+    },
+    "2024-01-16": {
+      "obsidian-plugin": 1824
+    },
+    "2024-01-17": {
+      "obsidian-plugin": 1845
+    },
+    "2024-01-18": {
+      "obsidian-plugin": 1863
+    },
+    "2024-01-19": {
+      "obsidian-plugin": 1883
+    },
+    "2024-01-20": {
+      "obsidian-plugin": 1904
+    },
+    "2024-01-21": {
+      "obsidian-plugin": 1918
+    },
+    "2024-01-22": {
+      "obsidian-plugin": 1937
+    },
+    "2024-01-23": {
+      "obsidian-plugin": 1953
+    },
+    "2024-01-24": {
+      "obsidian-plugin": 1969
+    },
+    "2024-01-25": {
+      "obsidian-plugin": 1988
+    },
+    "2024-01-26": {
+      "obsidian-plugin": 2006
+    },
+    "2024-01-27": {
+      "obsidian-plugin": 2025
+    },
+    "2024-01-28": {
+      "obsidian-plugin": 2044
+    },
+    "2024-01-29": {
+      "obsidian-plugin": 2076
+    },
+    "2024-01-30": {
+      "obsidian-plugin": 2111
+    },
+    "2024-01-31": {
+      "obsidian-plugin": 2132
+    },
+    "2024-02-01": {
+      "obsidian-plugin": 2160
+    },
+    "2024-02-02": {
+      "obsidian-plugin": 2180
+    },
+    "2024-02-03": {
+      "obsidian-plugin": 2198
+    },
+    "2024-02-04": {
+      "obsidian-plugin": 2217
+    },
+    "2024-02-05": {
+      "obsidian-plugin": 2239
+    },
+    "2024-02-06": {
+      "obsidian-plugin": 2260
+    },
+    "2024-02-07": {
+      "obsidian-plugin": 2279
+    },
+    "2024-02-08": {
+      "obsidian-plugin": 2299
+    },
+    "2024-02-09": {
+      "obsidian-plugin": 2319
+    },
+    "2024-02-10": {
+      "obsidian-plugin": 2339
+    },
+    "2024-02-11": {
+      "obsidian-plugin": 2356
+    },
+    "2024-02-12": {
+      "obsidian-plugin": 2374
+    },
+    "2024-02-13": {
+      "obsidian-plugin": 2394
+    },
+    "2024-02-14": {
+      "obsidian-plugin": 2414
+    },
+    "2024-02-15": {
+      "obsidian-plugin": 2433
+    },
+    "2024-02-16": {
+      "obsidian-plugin": 2448
+    },
+    "2024-02-17": {
+      "obsidian-plugin": 2463
+    },
+    "2024-02-18": {
+      "obsidian-plugin": 2478
+    },
+    "2024-02-19": {
+      "obsidian-plugin": 2493
+    },
+    "2024-02-20": {
+      "obsidian-plugin": 2513
+    },
+    "2024-02-21": {
+      "obsidian-plugin": 2529
+    },
+    "2024-02-22": {
+      "obsidian-plugin": 2548
+    },
+    "2024-02-23": {
+      "obsidian-plugin": 2565
+    },
+    "2024-02-24": {
+      "obsidian-plugin": 2579
+    },
+    "2024-02-25": {
+      "obsidian-plugin": 2595
+    },
+    "2024-02-26": {
+      "obsidian-plugin": 2612
+    },
+    "2024-02-27": {
+      "obsidian-plugin": 2630
+    },
+    "2024-02-28": {
+      "obsidian-plugin": 2649
+    },
+    "2024-02-29": {
+      "obsidian-plugin": 2667
+    },
+    "2024-03-01": {
+      "obsidian-plugin": 2685
+    },
+    "2024-03-02": {
+      "obsidian-plugin": 2700
+    },
+    "2024-03-03": {
+      "obsidian-plugin": 2712
+    },
+    "2024-03-04": {
+      "obsidian-plugin": 2726
+    },
+    "2024-03-05": {
+      "obsidian-plugin": 2739
+    },
+    "2024-03-06": {
+      "obsidian-plugin": 2756
+    },
+    "2024-03-07": {
+      "obsidian-plugin": 2771
+    },
+    "2024-03-08": {
+      "obsidian-plugin": 2789
+    },
+    "2024-03-09": {
+      "obsidian-plugin": 2803
+    },
+    "2024-03-10": {
+      "obsidian-plugin": 2819
+    },
+    "2024-03-11": {
+      "obsidian-plugin": 2833
+    },
+    "2024-03-12": {
+      "obsidian-plugin": 2850
+    },
+    "2024-03-13": {
+      "obsidian-plugin": 2873
+    },
+    "2024-03-14": {
+      "obsidian-plugin": 2890
+    },
+    "2024-03-15": {
+      "obsidian-plugin": 2905
+    },
+    "2024-03-16": {
+      "obsidian-plugin": 2921
+    },
+    "2024-03-17": {
+      "obsidian-plugin": 2936
+    },
+    "2024-03-18": {
+      "obsidian-plugin": 2952
+    },
+    "2024-03-19": {
+      "obsidian-plugin": 2971
+    },
+    "2024-03-20": {
+      "obsidian-plugin": 2985
+    },
+    "2024-03-21": {
+      "obsidian-plugin": 2997
+    },
+    "2024-03-22": {
+      "obsidian-plugin": 3018
+    },
+    "2024-03-23": {
+      "obsidian-plugin": 3049
+    },
+    "2024-03-24": {
+      "obsidian-plugin": 3079
+    },
+    "2024-03-25": {
+      "obsidian-plugin": 3104
+    },
+    "2024-03-26": {
+      "obsidian-plugin": 3129
+    },
+    "2024-03-27": {
+      "obsidian-plugin": 3151
+    },
+    "2024-03-28": {
+      "obsidian-plugin": 3171
+    },
+    "2024-03-29": {
+      "obsidian-plugin": 3185
+    },
+    "2024-03-30": {
+      "obsidian-plugin": 3199
+    },
+    "2024-03-31": {
+      "obsidian-plugin": 3211
+    },
+    "2024-04-01": {
+      "obsidian-plugin": 3229
+    },
+    "2024-04-02": {
+      "obsidian-plugin": 3247
+    },
+    "2024-04-03": {
+      "obsidian-plugin": 3263
+    },
+    "2024-04-04": {
+      "obsidian-plugin": 3285
+    },
+    "2024-04-05": {
+      "obsidian-plugin": 3302
+    },
+    "2024-04-06": {
+      "obsidian-plugin": 3325
+    },
+    "2024-04-07": {
+      "obsidian-plugin": 3341
+    },
+    "2024-04-08": {
+      "obsidian-plugin": 3361
+    },
+    "2024-04-09": {
+      "obsidian-plugin": 3382
+    },
+    "2024-04-10": {
+      "obsidian-plugin": 3396
+    },
+    "2024-04-11": {
+      "obsidian-plugin": 3411
+    },
+    "2024-04-12": {
+      "obsidian-plugin": 3426
+    },
+    "2024-04-13": {
+      "obsidian-plugin": 3442
+    },
+    "2024-04-14": {
+      "obsidian-plugin": 3460
+    },
+    "2024-04-15": {
+      "obsidian-plugin": 3477
+    },
+    "2024-04-16": {
+      "obsidian-plugin": 3488
+    },
+    "2024-04-17": {
+      "obsidian-plugin": 3507
+    },
+    "2024-04-18": {
+      "obsidian-plugin": 3523
+    },
+    "2024-04-19": {
+      "obsidian-plugin": 3542
+    },
+    "2024-04-20": {
+      "obsidian-plugin": 3561
+    },
+    "2024-04-21": {
+      "obsidian-plugin": 3574
+    },
+    "2024-04-22": {
+      "obsidian-plugin": 3590
+    },
+    "2024-04-23": {
+      "obsidian-plugin": 3602
+    },
+    "2024-04-24": {
+      "obsidian-plugin": 3619
+    },
+    "2024-04-25": {
+      "obsidian-plugin": 3638
+    },
+    "2024-04-26": {
+      "obsidian-plugin": 3651
+    },
+    "2024-04-27": {
+      "obsidian-plugin": 3666
+    },
+    "2024-04-28": {
+      "obsidian-plugin": 3678
+    },
+    "2024-04-29": {
+      "obsidian-plugin": 3698
+    },
+    "2024-04-30": {
+      "obsidian-plugin": 3716
+    },
+    "2024-05-01": {
+      "obsidian-plugin": 3732
+    },
+    "2024-05-02": {
+      "obsidian-plugin": 3746
+    },
+    "2024-05-03": {
+      "obsidian-plugin": 3765
+    },
+    "2024-05-04": {
+      "obsidian-plugin": 3780
+    },
+    "2024-05-05": {
+      "obsidian-plugin": 3791
+    },
+    "2024-05-06": {
+      "obsidian-plugin": 3809
+    },
+    "2024-05-07": {
+      "obsidian-plugin": 3827
+    },
+    "2024-05-08": {
+      "obsidian-plugin": 3847
+    },
+    "2024-05-09": {
+      "obsidian-plugin": 3856
+    },
+    "2024-05-10": {
+      "obsidian-plugin": 3858
+    },
+    "2024-05-11": {
+      "obsidian-plugin": 3861
+    },
+    "2024-05-12": {
+      "obsidian-plugin": 3866
+    },
+    "2024-05-13": {
+      "obsidian-plugin": 3867
+    },
+    "2024-05-14": {
+      "obsidian-plugin": 3871
+    },
+    "2024-05-15": {
+      "obsidian-plugin": 3878
+    },
+    "2024-05-16": {
+      "obsidian-plugin": 3884
+    },
+    "2024-05-17": {
+      "obsidian-plugin": 3890
+    },
+    "2024-05-18": {
+      "obsidian-plugin": 3898
+    },
+    "2024-05-19": {
+      "obsidian-plugin": 3901
+    },
+    "2024-05-20": {
+      "obsidian-plugin": 3902
+    },
+    "2024-05-21": {
+      "obsidian-plugin": 3904
+    },
+    "2024-05-22": {
+      "obsidian-plugin": 3911
+    },
+    "2024-05-23": {
+      "obsidian-plugin": 3919
+    },
+    "2024-05-24": {
+      "obsidian-plugin": 3923
+    },
+    "2024-05-25": {
+      "obsidian-plugin": 3926
+    },
+    "2024-05-26": {
+      "obsidian-plugin": 3929
+    },
+    "2024-05-27": {
+      "obsidian-plugin": 3935
+    },
+    "2024-05-28": {
+      "obsidian-plugin": 3937
+    },
+    "2024-05-29": {
+      "obsidian-plugin": 3937
+    },
+    "2024-05-30": {
+      "obsidian-plugin": 3945
+    },
+    "2024-05-31": {
+      "obsidian-plugin": 3950
+    },
+    "2024-06-01": {
+      "obsidian-plugin": 3956
+    },
+    "2024-06-02": {
+      "obsidian-plugin": 3956
+    },
+    "2024-06-03": {
+      "obsidian-plugin": 3961
+    },
+    "2024-06-04": {
+      "obsidian-plugin": 3963
+    },
+    "2024-06-05": {
+      "obsidian-plugin": 3986
+    },
+    "2024-06-06": {
+      "obsidian-plugin": 3989
+    },
+    "2024-06-07": {
+      "obsidian-plugin": 3994
+    },
+    "2024-06-08": {
+      "obsidian-plugin": 3995
+    },
+    "2024-06-09": {
+      "obsidian-plugin": 3996
+    },
+    "2024-06-10": {
+      "obsidian-plugin": 3998
+    },
+    "2024-06-11": {
+      "obsidian-plugin": 4004
+    },
+    "2024-06-12": {
+      "obsidian-plugin": 4010
+    },
+    "2024-06-13": {
+      "obsidian-plugin": 4013
+    },
+    "2024-06-14": {
+      "obsidian-plugin": 4019
+    },
+    "2024-06-15": {
+      "obsidian-plugin": 4021
+    },
+    "2024-06-16": {
+      "obsidian-plugin": 4025
+    },
+    "2024-06-17": {
+      "obsidian-plugin": 4028
+    },
+    "2024-06-18": {
+      "obsidian-plugin": 4030
+    },
+    "2024-06-19": {
+      "obsidian-plugin": 4032
+    },
+    "2024-06-20": {
+      "obsidian-plugin": 4038
+    },
+    "2024-06-21": {
+      "obsidian-plugin": 4040
+    },
+    "2024-06-22": {
+      "obsidian-plugin": 4044
+    },
+    "2024-06-23": {
+      "obsidian-plugin": 4047
+    },
+    "2024-06-24": {
+      "obsidian-plugin": 4053
+    },
+    "2024-06-25": {
+      "obsidian-plugin": 4059
+    },
+    "2024-06-26": {
+      "obsidian-plugin": 4063
+    },
+    "2024-06-27": {
+      "obsidian-plugin": 4068
+    },
+    "2024-06-28": {
+      "obsidian-plugin": 4072
+    },
+    "2024-06-29": {
+      "obsidian-plugin": 4078
+    },
+    "2024-06-30": {
+      "obsidian-plugin": 4082
+    },
+    "2024-07-01": {
+      "obsidian-plugin": 4085
+    },
+    "2024-07-02": {
+      "obsidian-plugin": 4090
+    },
+    "2024-07-03": {
+      "obsidian-plugin": 4093
+    },
+    "2024-07-04": {
+      "obsidian-plugin": 4095
+    },
+    "2024-07-05": {
+      "obsidian-plugin": 4100
+    },
+    "2024-07-06": {
+      "obsidian-plugin": 4103
+    },
+    "2024-07-07": {
+      "obsidian-plugin": 4106
+    },
+    "2024-07-08": {
+      "obsidian-plugin": 4110
+    },
+    "2024-07-09": {
+      "obsidian-plugin": 4113
+    },
+    "2024-07-10": {
+      "obsidian-plugin": 4117
+    },
+    "2024-07-11": {
+      "obsidian-plugin": 4119
+    },
+    "2024-07-12": {
+      "obsidian-plugin": 4127
+    },
+    "2024-07-13": {
+      "obsidian-plugin": 4132
+    },
+    "2024-07-14": {
+      "obsidian-plugin": 4134
+    },
+    "2024-07-15": {
+      "obsidian-plugin": 4139
+    },
+    "2024-07-16": {
+      "obsidian-plugin": 4140
+    },
+    "2024-07-17": {
+      "obsidian-plugin": 4141
+    },
+    "2024-07-18": {
+      "obsidian-plugin": 4144
+    },
+    "2024-07-19": {
+      "obsidian-plugin": 4146
+    },
+    "2024-07-20": {
+      "obsidian-plugin": 4151
+    },
+    "2024-07-21": {
+      "obsidian-plugin": 4152
+    },
+    "2024-07-22": {
+      "obsidian-plugin": 4153
+    },
+    "2024-07-23": {
+      "obsidian-plugin": 4156
+    },
+    "2024-07-24": {
+      "obsidian-plugin": 4158
+    },
+    "2024-07-25": {
+      "obsidian-plugin": 4159
+    },
+    "2024-07-26": {
+      "obsidian-plugin": 4159
+    },
+    "2024-07-27": {
+      "obsidian-plugin": 4162
+    },
+    "2024-07-28": {
+      "obsidian-plugin": 4164
+    },
+    "2024-07-29": {
+      "obsidian-plugin": 4167
+    },
+    "2024-07-30": {
+      "obsidian-plugin": 4168
+    },
+    "2024-07-31": {
+      "obsidian-plugin": 4171
+    },
+    "2024-08-01": {
+      "obsidian-plugin": 4173
+    },
+    "2024-08-02": {
+      "obsidian-plugin": 4175
+    },
+    "2024-08-03": {
+      "obsidian-plugin": 4176
+    },
+    "2024-08-04": {
+      "obsidian-plugin": 4177
+    },
+    "2024-08-05": {
+      "obsidian-plugin": 4178
+    },
+    "2024-08-06": {
+      "obsidian-plugin": 4183
+    },
+    "2024-08-07": {
+      "obsidian-plugin": 4186
+    },
+    "2024-08-08": {
+      "obsidian-plugin": 4187
+    },
+    "2024-08-09": {
+      "obsidian-plugin": 4191
+    },
+    "2024-08-10": {
+      "obsidian-plugin": 4194
+    },
+    "2024-08-11": {
+      "obsidian-plugin": 4196
+    },
+    "2024-08-12": {
+      "obsidian-plugin": 4200
+    },
+    "2024-08-13": {
+      "obsidian-plugin": 4202
+    },
+    "2024-08-14": {
+      "obsidian-plugin": 4204
+    },
+    "2024-08-15": {
+      "obsidian-plugin": 4206
+    },
+    "2024-08-16": {
+      "obsidian-plugin": 4209
+    },
+    "2024-08-17": {
+      "obsidian-plugin": 4210
+    },
+    "2024-08-18": {
+      "obsidian-plugin": 4212
+    },
+    "2024-08-19": {
+      "obsidian-plugin": 4219
+    },
+    "2024-08-20": {
+      "obsidian-plugin": 4222
+    },
+    "2024-08-21": {
+      "obsidian-plugin": 4228
+    },
+    "2024-08-22": {
+      "obsidian-plugin": 4235
+    },
+    "2024-08-23": {
+      "obsidian-plugin": 4237
+    },
+    "2024-08-24": {
+      "obsidian-plugin": 4243
+    },
+    "2024-08-25": {
+      "obsidian-plugin": 4249
+    },
+    "2024-08-26": {
+      "obsidian-plugin": 4254
+    },
+    "2024-08-27": {
+      "obsidian-plugin": 4259
+    },
+    "2024-08-28": {
+      "obsidian-plugin": 4263
+    },
+    "2024-08-29": {
+      "obsidian-plugin": 4267
+    },
+    "2024-08-30": {
+      "obsidian-plugin": 4274
+    },
+    "2024-08-31": {
+      "obsidian-plugin": 4282
+    },
+    "2024-09-01": {
+      "obsidian-plugin": 4284
+    },
+    "2024-09-02": {
+      "obsidian-plugin": 4286
+    },
+    "2024-09-03": {
+      "obsidian-plugin": 4291
+    },
+    "2024-09-04": {
+      "obsidian-plugin": 4298
+    },
+    "2024-09-05": {
+      "obsidian-plugin": 4305
+    },
+    "2024-09-06": {
+      "obsidian-plugin": 4312
+    },
+    "2024-09-07": {
+      "obsidian-plugin": 4323
+    },
+    "2024-09-08": {
+      "obsidian-plugin": 4323
+    },
+    "2024-09-09": {
+      "obsidian-plugin": 4332
+    },
+    "2024-09-10": {
+      "obsidian-plugin": 4340
+    },
+    "2024-09-11": {
+      "obsidian-plugin": 4349
+    },
+    "2024-09-12": {
+      "obsidian-plugin": 4354
+    },
+    "2024-09-13": {
+      "obsidian-plugin": 4363
+    },
+    "2024-09-14": {
+      "obsidian-plugin": 4369
+    },
+    "2024-09-15": {
+      "obsidian-plugin": 4375
+    },
+    "2024-09-16": {
+      "obsidian-plugin": 4380
+    },
+    "2024-09-17": {
+      "obsidian-plugin": 4385
+    },
+    "2024-09-18": {
+      "obsidian-plugin": 4390
+    },
+    "2024-09-19": {
+      "obsidian-plugin": 4396
+    },
+    "2024-09-20": {
+      "obsidian-plugin": 4406
+    },
+    "2024-09-21": {
+      "obsidian-plugin": 4417
+    },
+    "2024-09-22": {
+      "obsidian-plugin": 4427
+    },
+    "2024-09-23": {
+      "obsidian-plugin": 4431
+    },
+    "2024-09-24": {
+      "obsidian-plugin": 4442
+    },
+    "2024-09-25": {
+      "obsidian-plugin": 4448
+    },
+    "2024-09-26": {
+      "obsidian-plugin": 4456
+    },
+    "2024-09-27": {
+      "obsidian-plugin": 4461
+    },
+    "2024-09-28": {
+      "obsidian-plugin": 4465
+    },
+    "2024-09-29": {
+      "obsidian-plugin": 4467
+    },
+    "2024-09-30": {
+      "obsidian-plugin": 4471
+    },
+    "2024-10-01": {
+      "obsidian-plugin": 4473
+    },
+    "2024-10-02": {
+      "obsidian-plugin": 4476
+    },
+    "2024-10-03": {
+      "obsidian-plugin": 4484
+    },
+    "2024-10-04": {
+      "obsidian-plugin": 4490
+    },
+    "2024-10-05": {
+      "obsidian-plugin": 4496
+    },
+    "2024-10-06": {
+      "obsidian-plugin": 4498
+    },
+    "2024-10-07": {
+      "obsidian-plugin": 4505
+    },
+    "2024-10-08": {
+      "obsidian-plugin": 4510
+    },
+    "2024-10-09": {
+      "obsidian-plugin": 4517
+    },
+    "2024-10-10": {
+      "obsidian-plugin": 4520
+    },
+    "2024-10-11": {
+      "obsidian-plugin": 4523
+    },
+    "2024-10-12": {
+      "obsidian-plugin": 4531
+    },
+    "2024-10-13": {
+      "obsidian-plugin": 4537
+    },
+    "2024-10-14": {
+      "obsidian-plugin": 4541
+    },
+    "2024-10-15": {
+      "obsidian-plugin": 4549
+    },
+    "2024-10-16": {
+      "obsidian-plugin": 4553
+    },
+    "2024-10-17": {
+      "obsidian-plugin": 4561
+    },
+    "2024-10-18": {
+      "obsidian-plugin": 4568
+    },
+    "2024-10-19": {
+      "obsidian-plugin": 4576
+    },
+    "2024-10-20": {
+      "obsidian-plugin": 4581
+    },
+    "2024-10-21": {
+      "obsidian-plugin": 4585
+    },
+    "2024-10-22": {
+      "obsidian-plugin": 4589
+    },
+    "2024-10-23": {
+      "obsidian-plugin": 4596
+    },
+    "2024-10-24": {
+      "obsidian-plugin": 4602
+    },
+    "2024-10-25": {
+      "obsidian-plugin": 4607
+    },
+    "2024-10-26": {
+      "obsidian-plugin": 4613
+    },
+    "2024-10-27": {
+      "obsidian-plugin": 4616
+    },
+    "2024-10-28": {
+      "obsidian-plugin": 4622
+    },
+    "2024-10-29": {
+      "obsidian-plugin": 4630
+    },
+    "2024-10-30": {
+      "obsidian-plugin": 4632
+    },
+    "2024-10-31": {
+      "obsidian-plugin": 4640
+    },
+    "2024-11-01": {
+      "obsidian-plugin": 4643
+    },
+    "2024-11-02": {
+      "obsidian-plugin": 4645
+    },
+    "2024-11-03": {
+      "obsidian-plugin": 4648
+    },
+    "2024-11-04": {
+      "obsidian-plugin": 4650
+    },
+    "2024-11-05": {
+      "obsidian-plugin": 4653
+    },
+    "2024-11-06": {
+      "obsidian-plugin": 4655
+    },
+    "2024-11-07": {
+      "obsidian-plugin": 4663
+    },
+    "2024-11-08": {
+      "obsidian-plugin": 4669
+    },
+    "2024-11-09": {
+      "obsidian-plugin": 4675
+    },
+    "2024-11-10": {
+      "obsidian-plugin": 4680
+    },
+    "2024-11-11": {
+      "obsidian-plugin": 4687
+    },
+    "2024-11-12": {
+      "obsidian-plugin": 4692
+    },
+    "2024-11-13": {
+      "obsidian-plugin": 4696
+    },
+    "2024-11-14": {
+      "obsidian-plugin": 4699
+    },
+    "2024-11-15": {
+      "obsidian-plugin": 4706
+    },
+    "2024-11-16": {
+      "obsidian-plugin": 4711
+    },
+    "2024-11-17": {
+      "obsidian-plugin": 4715
+    },
+    "2024-11-18": {
+      "obsidian-plugin": 4718
+    },
+    "2024-11-19": {
+      "obsidian-plugin": 4723
+    },
+    "2024-11-20": {
+      "obsidian-plugin": 4730
+    },
+    "2024-11-21": {
+      "obsidian-plugin": 4732
+    },
+    "2024-11-22": {
+      "obsidian-plugin": 4741
+    },
+    "2024-11-23": {
+      "obsidian-plugin": 4744
+    },
+    "2024-11-24": {
+      "obsidian-plugin": 4746
+    },
+    "2024-11-25": {
+      "obsidian-plugin": 4749
+    },
+    "2024-11-26": {
+      "obsidian-plugin": 4751
+    },
+    "2024-11-27": {
+      "obsidian-plugin": 4758
+    },
+    "2024-11-28": {
+      "obsidian-plugin": 4761
+    },
+    "2024-11-29": {
+      "obsidian-plugin": 4764
+    },
+    "2024-11-30": {
+      "obsidian-plugin": 4767
+    },
+    "2024-12-01": {
+      "obsidian-plugin": 4771
+    },
+    "2024-12-02": {
+      "obsidian-plugin": 4775
+    },
+    "2024-12-03": {
+      "obsidian-plugin": 4779
+    },
+    "2024-12-04": {
+      "obsidian-plugin": 4784
+    },
+    "2024-12-05": {
+      "obsidian-plugin": 4790
+    },
+    "2024-12-06": {
+      "obsidian-plugin": 4796
+    },
+    "2024-12-07": {
+      "obsidian-plugin": 4800
+    },
+    "2024-12-08": {
+      "obsidian-plugin": 4806
+    },
+    "2024-12-09": {
+      "obsidian-plugin": 4811
+    },
+    "2024-12-10": {
+      "obsidian-plugin": 4814
+    },
+    "2024-12-11": {
+      "obsidian-plugin": 4817
+    },
+    "2024-12-12": {
+      "obsidian-plugin": 4820
+    },
+    "2024-12-13": {
+      "obsidian-plugin": 4824
+    },
+    "2024-12-14": {
+      "obsidian-plugin": 4828
+    },
+    "2024-12-15": {
+      "obsidian-plugin": 4829
+    },
+    "2024-12-16": {
+      "obsidian-plugin": 4832
+    },
+    "2024-12-17": {
+      "obsidian-plugin": 4838
+    },
+    "2024-12-18": {
+      "obsidian-plugin": 4846
+    },
+    "2024-12-19": {
+      "obsidian-plugin": 4848
+    },
+    "2024-12-20": {
+      "obsidian-plugin": 4850
+    },
+    "2024-12-21": {
+      "obsidian-plugin": 4855
+    },
+    "2024-12-22": {
+      "obsidian-plugin": 4862
+    },
+    "2024-12-23": {
+      "obsidian-plugin": 4865
+    },
+    "2024-12-24": {
+      "obsidian-plugin": 4867
+    },
+    "2024-12-25": {
+      "obsidian-plugin": 4867
+    },
+    "2024-12-26": {
+      "obsidian-plugin": 4869
+    },
+    "2024-12-27": {
+      "obsidian-plugin": 4870
+    },
+    "2024-12-28": {
+      "obsidian-plugin": 4872
+    },
+    "2024-12-29": {
+      "obsidian-plugin": 4876
+    },
+    "2024-12-30": {
+      "obsidian-plugin": 4877
+    },
+    "2024-12-31": {
+      "obsidian-plugin": 4878
+    },
+    "2025-01-01": {
+      "obsidian-plugin": 4880
+    },
+    "2025-01-02": {
+      "obsidian-plugin": 4883
+    },
+    "2025-01-03": {
+      "obsidian-plugin": 4887
+    },
+    "2025-01-04": {
+      "obsidian-plugin": 4890
+    },
+    "2025-01-05": {
+      "obsidian-plugin": 4894
+    },
+    "2025-01-06": {
+      "obsidian-plugin": 4897
+    },
+    "2025-01-07": {
+      "obsidian-plugin": 4902
+    },
+    "2025-01-08": {
+      "obsidian-plugin": 4905
+    },
+    "2025-01-09": {
+      "obsidian-plugin": 4911
+    },
+    "2025-01-10": {
+      "obsidian-plugin": 4919
+    },
+    "2025-01-11": {
+      "obsidian-plugin": 4920
+    },
+    "2025-01-12": {
+      "obsidian-plugin": 4923
+    },
+    "2025-01-13": {
+      "obsidian-plugin": 4926
+    },
+    "2025-01-14": {
+      "obsidian-plugin": 4926
+    },
+    "2025-01-15": {
+      "obsidian-plugin": 4933
+    },
+    "2025-01-16": {
+      "obsidian-plugin": 4940
+    },
+    "2025-01-17": {
+      "obsidian-plugin": 4946
+    },
+    "2025-01-18": {
+      "obsidian-plugin": 4953
+    },
+    "2025-01-19": {
+      "obsidian-plugin": 4959
+    },
+    "2025-01-20": {
+      "obsidian-plugin": 4964
+    },
+    "2025-01-21": {
+      "obsidian-plugin": 4970
+    },
+    "2025-01-22": {
+      "obsidian-plugin": 4979
+    },
+    "2025-01-23": {
+      "obsidian-plugin": 4984
+    },
+    "2025-01-24": {
+      "obsidian-plugin": 4990
+    },
+    "2025-01-25": {
+      "obsidian-plugin": 4992
+    },
+    "2025-01-26": {
+      "obsidian-plugin": 4996
+    },
+    "2025-01-27": {
+      "obsidian-plugin": 4998
+    },
+    "2025-01-28": {
+      "obsidian-plugin": 5006
+    },
+    "2025-01-29": {
+      "obsidian-plugin": 5011
+    },
+    "2025-01-30": {
+      "obsidian-plugin": 5015
+    },
+    "2025-01-31": {
+      "obsidian-plugin": 5020
+    },
+    "2025-02-01": {
+      "obsidian-plugin": 5025
+    },
+    "2025-02-02": {
+      "obsidian-plugin": 5031
+    },
+    "2025-02-03": {
+      "obsidian-plugin": 5035
+    },
+    "2025-02-04": {
+      "obsidian-plugin": 5039
+    },
+    "2025-02-05": {
+      "obsidian-plugin": 5044
+    },
+    "2025-02-06": {
+      "obsidian-plugin": 5046
+    },
+    "2025-02-07": {
+      "obsidian-plugin": 5048
+    },
+    "2025-02-08": {
+      "obsidian-plugin": 5051
+    },
+    "2025-02-09": {
+      "obsidian-plugin": 5054
+    },
+    "2025-02-10": {
+      "obsidian-plugin": 5063
+    },
+    "2025-02-11": {
+      "obsidian-plugin": 5071
+    },
     "2025-02-12": {
       "obsidian-plugin": 5073
     },
