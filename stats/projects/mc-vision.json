@@ -1,2776 +1,2272 @@
 {
   "daily": {
-    "2023-01-19": {
-      "modrinth-mod": 0
-    },
-    "2023-01-20": {
-      "modrinth-mod": 0
-    },
-    "2023-01-21": {
-      "modrinth-mod": 0
-    },
-    "2023-01-22": {
-      "modrinth-mod": 0
-    },
-    "2023-01-23": {
-      "modrinth-mod": 0
-    },
-    "2023-01-24": {
-      "modrinth-mod": 0
-    },
-    "2023-01-25": {
-      "modrinth-mod": 0
-    },
-    "2023-01-26": {
-      "modrinth-mod": 0
-    },
-    "2023-01-27": {
-      "modrinth-mod": 0
-    },
-    "2023-01-28": {
-      "modrinth-mod": 0
-    },
-    "2023-01-29": {
-      "modrinth-mod": 0
-    },
-    "2023-01-30": {
-      "modrinth-mod": 0
-    },
-    "2023-01-31": {
-      "modrinth-mod": 0
-    },
-    "2023-02-01": {
-      "modrinth-mod": 0
-    },
-    "2023-02-02": {
-      "modrinth-mod": 0
-    },
-    "2023-02-03": {
-      "modrinth-mod": 0
-    },
-    "2023-02-04": {
-      "modrinth-mod": 0
-    },
-    "2023-02-05": {
-      "modrinth-mod": 0
-    },
-    "2023-02-06": {
-      "modrinth-mod": 0
-    },
-    "2023-02-07": {
-      "modrinth-mod": 0
-    },
-    "2023-02-08": {
-      "modrinth-mod": 0
-    },
-    "2023-02-09": {
-      "modrinth-mod": 0
-    },
-    "2023-02-10": {
-      "modrinth-mod": 0
-    },
-    "2023-02-11": {
-      "modrinth-mod": 0
-    },
-    "2023-02-12": {
-      "modrinth-mod": 0
-    },
-    "2023-02-13": {
-      "modrinth-mod": 0
-    },
-    "2023-02-14": {
-      "modrinth-mod": 0
-    },
-    "2023-02-15": {
-      "modrinth-mod": 0
-    },
-    "2023-02-16": {
-      "modrinth-mod": 0
-    },
-    "2023-02-17": {
-      "modrinth-mod": 0
-    },
-    "2023-02-18": {
-      "modrinth-mod": 0
-    },
-    "2023-02-19": {
-      "modrinth-mod": 0
-    },
-    "2023-02-20": {
-      "modrinth-mod": 0
-    },
-    "2023-02-21": {
-      "modrinth-mod": 0
-    },
-    "2023-02-22": {
-      "modrinth-mod": 0
-    },
-    "2023-02-23": {
-      "modrinth-mod": 0
-    },
-    "2023-02-24": {
-      "modrinth-mod": 0
-    },
-    "2023-02-25": {
-      "modrinth-mod": 0
-    },
-    "2023-02-26": {
-      "modrinth-mod": 0
-    },
-    "2023-02-27": {
-      "modrinth-mod": 0
-    },
-    "2023-02-28": {
-      "modrinth-mod": 0
-    },
-    "2023-03-01": {
-      "modrinth-mod": 0
-    },
-    "2023-03-02": {
-      "modrinth-mod": 0
-    },
-    "2023-03-03": {
-      "modrinth-mod": 0
-    },
-    "2023-03-04": {
-      "modrinth-mod": 0
-    },
-    "2023-03-05": {
-      "modrinth-mod": 0
-    },
-    "2023-03-06": {
-      "modrinth-mod": 0
-    },
-    "2023-03-07": {
-      "modrinth-mod": 0
-    },
-    "2023-03-08": {
-      "modrinth-mod": 0
-    },
-    "2023-03-09": {
-      "modrinth-mod": 0
-    },
-    "2023-03-10": {
-      "modrinth-mod": 0
-    },
-    "2023-03-11": {
-      "modrinth-mod": 0
-    },
-    "2023-03-12": {
-      "modrinth-mod": 0
-    },
-    "2023-03-13": {
-      "modrinth-mod": 0
-    },
-    "2023-03-14": {
-      "modrinth-mod": 0
-    },
-    "2023-03-15": {
-      "modrinth-mod": 0
-    },
-    "2023-03-16": {
-      "modrinth-mod": 0
-    },
-    "2023-03-17": {
-      "modrinth-mod": 0
-    },
-    "2023-03-18": {
-      "modrinth-mod": 0
-    },
-    "2023-03-19": {
-      "modrinth-mod": 0
-    },
-    "2023-03-20": {
-      "modrinth-mod": 0
-    },
-    "2023-03-21": {
-      "modrinth-mod": 0
-    },
-    "2023-03-22": {
-      "modrinth-mod": 0
-    },
-    "2023-03-23": {
-      "modrinth-mod": 0
-    },
-    "2023-03-24": {
-      "modrinth-mod": 0
-    },
-    "2023-03-25": {
-      "modrinth-mod": 0
-    },
-    "2023-03-26": {
-      "modrinth-mod": 0
-    },
-    "2023-03-27": {
-      "modrinth-mod": 0
-    },
-    "2023-03-28": {
-      "modrinth-mod": 0
-    },
-    "2023-03-29": {
-      "modrinth-mod": 0
-    },
-    "2023-03-30": {
-      "modrinth-mod": 0
-    },
-    "2023-03-31": {
-      "modrinth-mod": 0
-    },
-    "2023-04-01": {
-      "modrinth-mod": 0
-    },
-    "2023-04-02": {
-      "modrinth-mod": 0
-    },
-    "2023-04-03": {
-      "modrinth-mod": 0
-    },
-    "2023-04-04": {
-      "modrinth-mod": 0
-    },
-    "2023-04-05": {
-      "modrinth-mod": 0
-    },
-    "2023-04-06": {
-      "modrinth-mod": 0
-    },
-    "2023-04-07": {
-      "modrinth-mod": 0
-    },
-    "2023-04-08": {
-      "modrinth-mod": 0
-    },
-    "2023-04-09": {
-      "modrinth-mod": 0
-    },
-    "2023-04-10": {
-      "modrinth-mod": 0
-    },
-    "2023-04-11": {
-      "modrinth-mod": 0
-    },
-    "2023-04-12": {
-      "modrinth-mod": 0
-    },
-    "2023-04-13": {
-      "modrinth-mod": 0
-    },
-    "2023-04-14": {
-      "modrinth-mod": 0
-    },
-    "2023-04-15": {
-      "modrinth-mod": 0
-    },
-    "2023-04-16": {
-      "modrinth-mod": 0
-    },
-    "2023-04-17": {
-      "modrinth-mod": 0
-    },
-    "2023-04-18": {
-      "modrinth-mod": 0
-    },
-    "2023-04-19": {
-      "modrinth-mod": 0
-    },
-    "2023-04-20": {
-      "modrinth-mod": 0
-    },
-    "2023-04-21": {
-      "modrinth-mod": 0
-    },
-    "2023-04-22": {
-      "modrinth-mod": 0
-    },
-    "2023-04-23": {
-      "modrinth-mod": 0
-    },
-    "2023-04-24": {
-      "modrinth-mod": 0
-    },
-    "2023-04-25": {
-      "modrinth-mod": 0
-    },
-    "2023-04-26": {
-      "modrinth-mod": 0
-    },
-    "2023-04-27": {
-      "modrinth-mod": 0
-    },
-    "2023-04-28": {
-      "modrinth-mod": 0
-    },
-    "2023-04-29": {
-      "modrinth-mod": 0
-    },
-    "2023-04-30": {
-      "modrinth-mod": 0
-    },
-    "2023-05-01": {
-      "modrinth-mod": 0
-    },
-    "2023-05-02": {
-      "modrinth-mod": 0
-    },
-    "2023-05-03": {
-      "modrinth-mod": 0
-    },
-    "2023-05-04": {
-      "modrinth-mod": 0
-    },
-    "2023-05-05": {
-      "modrinth-mod": 0
-    },
-    "2023-05-06": {
-      "modrinth-mod": 0
-    },
-    "2023-05-07": {
-      "modrinth-mod": 0
-    },
-    "2023-05-08": {
-      "modrinth-mod": 0
-    },
-    "2023-05-09": {
-      "modrinth-mod": 0
-    },
-    "2023-05-10": {
-      "modrinth-mod": 0
-    },
-    "2023-05-11": {
-      "modrinth-mod": 0
-    },
-    "2023-05-12": {
-      "modrinth-mod": 0
-    },
-    "2023-05-13": {
-      "modrinth-mod": 0
-    },
-    "2023-05-14": {
-      "modrinth-mod": 0
-    },
-    "2023-05-15": {
-      "modrinth-mod": 0
-    },
-    "2023-05-16": {
-      "modrinth-mod": 0
-    },
-    "2023-05-17": {
-      "modrinth-mod": 0
-    },
-    "2023-05-18": {
-      "modrinth-mod": 0
-    },
-    "2023-05-19": {
-      "modrinth-mod": 0
-    },
-    "2023-05-20": {
-      "modrinth-mod": 0
-    },
-    "2023-05-21": {
-      "modrinth-mod": 0
-    },
-    "2023-05-22": {
-      "modrinth-mod": 0
-    },
-    "2023-05-23": {
-      "modrinth-mod": 0
-    },
-    "2023-05-24": {
-      "modrinth-mod": 0
-    },
-    "2023-05-25": {
-      "modrinth-mod": 0
-    },
-    "2023-05-26": {
-      "modrinth-mod": 0
-    },
-    "2023-05-27": {
-      "modrinth-mod": 0
-    },
-    "2023-05-28": {
-      "modrinth-mod": 0
-    },
-    "2023-05-29": {
-      "modrinth-mod": 0
-    },
-    "2023-05-30": {
-      "modrinth-mod": 0
-    },
-    "2023-05-31": {
-      "modrinth-mod": 0
-    },
-    "2023-06-01": {
-      "modrinth-mod": 0
-    },
-    "2023-06-02": {
-      "modrinth-mod": 0
-    },
-    "2023-06-03": {
-      "modrinth-mod": 0
-    },
-    "2023-06-04": {
-      "modrinth-mod": 0
-    },
-    "2023-06-05": {
-      "modrinth-mod": 0
-    },
-    "2023-06-06": {
-      "modrinth-mod": 0
-    },
-    "2023-06-07": {
-      "modrinth-mod": 0
-    },
-    "2023-06-08": {
-      "modrinth-mod": 0
-    },
-    "2023-06-09": {
-      "modrinth-mod": 0
-    },
-    "2023-06-10": {
-      "modrinth-mod": 0
-    },
-    "2023-06-11": {
-      "modrinth-mod": 0
-    },
-    "2023-06-12": {
-      "modrinth-mod": 0
-    },
-    "2023-06-13": {
-      "modrinth-mod": 0
-    },
-    "2023-06-14": {
-      "modrinth-mod": 0
-    },
-    "2023-06-15": {
-      "modrinth-mod": 0
-    },
-    "2023-06-16": {
-      "modrinth-mod": 0
-    },
-    "2023-06-17": {
-      "modrinth-mod": 0
-    },
-    "2023-06-18": {
-      "modrinth-mod": 0
-    },
-    "2023-06-19": {
-      "modrinth-mod": 0
-    },
-    "2023-06-20": {
-      "modrinth-mod": 0
-    },
-    "2023-06-21": {
-      "modrinth-mod": 0
-    },
-    "2023-06-22": {
-      "modrinth-mod": 0
-    },
-    "2023-06-23": {
-      "modrinth-mod": 0
-    },
-    "2023-06-24": {
-      "modrinth-mod": 0
-    },
-    "2023-06-25": {
-      "modrinth-mod": 0
-    },
-    "2023-06-26": {
-      "modrinth-mod": 0
-    },
-    "2023-06-27": {
-      "modrinth-mod": 0
-    },
-    "2023-06-28": {
-      "modrinth-mod": 0
-    },
-    "2023-06-29": {
-      "modrinth-mod": 0
-    },
-    "2023-06-30": {
-      "modrinth-mod": 0
-    },
-    "2023-07-01": {
-      "modrinth-mod": 0
-    },
-    "2023-07-02": {
-      "modrinth-mod": 0
-    },
-    "2023-07-03": {
-      "modrinth-mod": 0
-    },
-    "2023-07-04": {
-      "modrinth-mod": 0
-    },
-    "2023-07-05": {
-      "modrinth-mod": 0
-    },
     "2023-07-06": {
       "modrinth-mod": 44
     },
     "2023-07-07": {
-      "modrinth-mod": 44
+      "modrinth-mod": 46
     },
     "2023-07-08": {
-      "modrinth-mod": 44
+      "modrinth-mod": 48
     },
     "2023-07-09": {
-      "modrinth-mod": 44
+      "modrinth-mod": 50
     },
     "2023-07-10": {
-      "modrinth-mod": 44
+      "modrinth-mod": 53
     },
     "2023-07-11": {
-      "modrinth-mod": 44
+      "modrinth-mod": 55
     },
     "2023-07-12": {
-      "modrinth-mod": 44
+      "modrinth-mod": 57
     },
     "2023-07-13": {
-      "modrinth-mod": 44
+      "modrinth-mod": 59
     },
     "2023-07-14": {
-      "modrinth-mod": 44
+      "modrinth-mod": 62
     },
     "2023-07-15": {
-      "modrinth-mod": 44
+      "modrinth-mod": 64
     },
     "2023-07-16": {
-      "modrinth-mod": 44
+      "modrinth-mod": 66
     },
     "2023-07-17": {
-      "modrinth-mod": 44
+      "modrinth-mod": 68
     },
     "2023-07-18": {
-      "modrinth-mod": 44
+      "modrinth-mod": 71
     },
     "2023-07-19": {
-      "modrinth-mod": 44
+      "modrinth-mod": 73
     },
     "2023-07-20": {
-      "modrinth-mod": 44
+      "modrinth-mod": 75
     },
     "2023-07-21": {
-      "modrinth-mod": 44
+      "modrinth-mod": 77
     },
     "2023-07-22": {
-      "modrinth-mod": 44
+      "modrinth-mod": 80
     },
     "2023-07-23": {
-      "modrinth-mod": 44
+      "modrinth-mod": 82
     },
     "2023-07-24": {
-      "modrinth-mod": 44
+      "modrinth-mod": 84
     },
     "2023-07-25": {
-      "modrinth-mod": 44
+      "modrinth-mod": 86
     },
     "2023-07-26": {
-      "modrinth-mod": 44
+      "modrinth-mod": 89
     },
     "2023-07-27": {
-      "modrinth-mod": 44
+      "modrinth-mod": 91
     },
     "2023-07-28": {
-      "modrinth-mod": 44
+      "modrinth-mod": 93
     },
     "2023-07-29": {
-      "modrinth-mod": 44
+      "modrinth-mod": 95
     },
     "2023-07-30": {
-      "modrinth-mod": 44
+      "modrinth-mod": 98
     },
     "2023-07-31": {
-      "modrinth-mod": 44
+      "modrinth-mod": 100
     },
     "2023-08-01": {
-      "modrinth-mod": 44
+      "modrinth-mod": 102
     },
     "2023-08-02": {
-      "modrinth-mod": 44
+      "modrinth-mod": 104
     },
     "2023-08-03": {
       "modrinth-mod": 107
     },
     "2023-08-04": {
-      "modrinth-mod": 107
+      "modrinth-mod": 108
     },
     "2023-08-05": {
-      "modrinth-mod": 107
+      "modrinth-mod": 110
     },
     "2023-08-06": {
-      "modrinth-mod": 107
+      "modrinth-mod": 112
     },
     "2023-08-07": {
-      "modrinth-mod": 107
+      "modrinth-mod": 114
     },
     "2023-08-08": {
-      "modrinth-mod": 107
+      "modrinth-mod": 115
     },
     "2023-08-09": {
-      "modrinth-mod": 107
+      "modrinth-mod": 117
     },
     "2023-08-10": {
-      "modrinth-mod": 107
+      "modrinth-mod": 119
     },
     "2023-08-11": {
-      "modrinth-mod": 107
+      "modrinth-mod": 121
     },
     "2023-08-12": {
-      "modrinth-mod": 107
+      "modrinth-mod": 122
     },
     "2023-08-13": {
-      "modrinth-mod": 107
+      "modrinth-mod": 124
     },
     "2023-08-14": {
-      "modrinth-mod": 107
+      "modrinth-mod": 126
     },
     "2023-08-15": {
-      "modrinth-mod": 107
+      "modrinth-mod": 128
     },
     "2023-08-16": {
-      "modrinth-mod": 107
+      "modrinth-mod": 129
     },
     "2023-08-17": {
-      "modrinth-mod": 107
+      "modrinth-mod": 131
     },
     "2023-08-18": {
-      "modrinth-mod": 107
+      "modrinth-mod": 133
     },
     "2023-08-19": {
-      "modrinth-mod": 107
+      "modrinth-mod": 135
     },
     "2023-08-20": {
-      "modrinth-mod": 107
+      "modrinth-mod": 136
     },
     "2023-08-21": {
-      "modrinth-mod": 107
+      "modrinth-mod": 138
     },
     "2023-08-22": {
-      "modrinth-mod": 107
+      "modrinth-mod": 140
     },
     "2023-08-23": {
-      "modrinth-mod": 107
+      "modrinth-mod": 142
     },
     "2023-08-24": {
-      "modrinth-mod": 107
+      "modrinth-mod": 143
     },
     "2023-08-25": {
-      "modrinth-mod": 107
+      "modrinth-mod": 145
     },
     "2023-08-26": {
-      "modrinth-mod": 107
+      "modrinth-mod": 147
     },
     "2023-08-27": {
-      "modrinth-mod": 107
+      "modrinth-mod": 149
     },
     "2023-08-28": {
-      "modrinth-mod": 107
+      "modrinth-mod": 150
     },
     "2023-08-29": {
-      "modrinth-mod": 107
+      "modrinth-mod": 152
     },
     "2023-08-30": {
-      "modrinth-mod": 107
+      "modrinth-mod": 154
     },
     "2023-08-31": {
       "modrinth-mod": 156
     },
     "2023-09-01": {
-      "modrinth-mod": 156
+      "modrinth-mod": 157
     },
     "2023-09-02": {
-      "modrinth-mod": 156
+      "modrinth-mod": 158
     },
     "2023-09-03": {
-      "modrinth-mod": 156
+      "modrinth-mod": 159
     },
     "2023-09-04": {
-      "modrinth-mod": 156
+      "modrinth-mod": 160
     },
     "2023-09-05": {
-      "modrinth-mod": 156
+      "modrinth-mod": 161
     },
     "2023-09-06": {
-      "modrinth-mod": 156
+      "modrinth-mod": 162
     },
     "2023-09-07": {
-      "modrinth-mod": 156
+      "modrinth-mod": 163
     },
     "2023-09-08": {
-      "modrinth-mod": 156
+      "modrinth-mod": 164
     },
     "2023-09-09": {
-      "modrinth-mod": 156
+      "modrinth-mod": 165
     },
     "2023-09-10": {
-      "modrinth-mod": 156
+      "modrinth-mod": 166
     },
     "2023-09-11": {
-      "modrinth-mod": 156
+      "modrinth-mod": 167
     },
     "2023-09-12": {
-      "modrinth-mod": 156
+      "modrinth-mod": 168
     },
     "2023-09-13": {
-      "modrinth-mod": 156
+      "modrinth-mod": 169
     },
     "2023-09-14": {
-      "modrinth-mod": 156
+      "modrinth-mod": 170
     },
     "2023-09-15": {
-      "modrinth-mod": 156
+      "modrinth-mod": 171
     },
     "2023-09-16": {
-      "modrinth-mod": 156
+      "modrinth-mod": 172
     },
     "2023-09-17": {
-      "modrinth-mod": 156
+      "modrinth-mod": 173
     },
     "2023-09-18": {
-      "modrinth-mod": 156
+      "modrinth-mod": 174
     },
     "2023-09-19": {
-      "modrinth-mod": 156
+      "modrinth-mod": 175
     },
     "2023-09-20": {
-      "modrinth-mod": 156
+      "modrinth-mod": 176
     },
     "2023-09-21": {
-      "modrinth-mod": 156
+      "modrinth-mod": 177
     },
     "2023-09-22": {
-      "modrinth-mod": 156
+      "modrinth-mod": 178
     },
     "2023-09-23": {
-      "modrinth-mod": 156
+      "modrinth-mod": 179
     },
     "2023-09-24": {
-      "modrinth-mod": 156
+      "modrinth-mod": 180
     },
     "2023-09-25": {
-      "modrinth-mod": 156
+      "modrinth-mod": 181
     },
     "2023-09-26": {
-      "modrinth-mod": 156
+      "modrinth-mod": 182
     },
     "2023-09-27": {
-      "modrinth-mod": 156
+      "modrinth-mod": 183
     },
     "2023-09-28": {
       "modrinth-mod": 184
     },
     "2023-09-29": {
-      "modrinth-mod": 184
+      "modrinth-mod": 185
     },
     "2023-09-30": {
-      "modrinth-mod": 184
+      "modrinth-mod": 186
     },
     "2023-10-01": {
-      "modrinth-mod": 184
+      "modrinth-mod": 187
     },
     "2023-10-02": {
-      "modrinth-mod": 184
+      "modrinth-mod": 189
     },
     "2023-10-03": {
-      "modrinth-mod": 184
+      "modrinth-mod": 190
     },
     "2023-10-04": {
-      "modrinth-mod": 184
+      "modrinth-mod": 191
     },
     "2023-10-05": {
-      "modrinth-mod": 184
+      "modrinth-mod": 193
     },
     "2023-10-06": {
-      "modrinth-mod": 184
+      "modrinth-mod": 194
     },
     "2023-10-07": {
-      "modrinth-mod": 184
+      "modrinth-mod": 195
     },
     "2023-10-08": {
-      "modrinth-mod": 184
+      "modrinth-mod": 197
     },
     "2023-10-09": {
-      "modrinth-mod": 184
+      "modrinth-mod": 198
     },
     "2023-10-10": {
-      "modrinth-mod": 184
+      "modrinth-mod": 199
     },
     "2023-10-11": {
-      "modrinth-mod": 184
+      "modrinth-mod": 201
     },
     "2023-10-12": {
-      "modrinth-mod": 184
+      "modrinth-mod": 202
     },
     "2023-10-13": {
-      "modrinth-mod": 184
+      "modrinth-mod": 203
     },
     "2023-10-14": {
-      "modrinth-mod": 184
+      "modrinth-mod": 205
     },
     "2023-10-15": {
-      "modrinth-mod": 184
+      "modrinth-mod": 206
     },
     "2023-10-16": {
-      "modrinth-mod": 184
+      "modrinth-mod": 207
     },
     "2023-10-17": {
-      "modrinth-mod": 184
+      "modrinth-mod": 209
     },
     "2023-10-18": {
-      "modrinth-mod": 184
+      "modrinth-mod": 210
     },
     "2023-10-19": {
-      "modrinth-mod": 184
+      "modrinth-mod": 211
     },
     "2023-10-20": {
-      "modrinth-mod": 184
+      "modrinth-mod": 213
     },
     "2023-10-21": {
-      "modrinth-mod": 184
+      "modrinth-mod": 214
     },
     "2023-10-22": {
-      "modrinth-mod": 184
+      "modrinth-mod": 215
     },
     "2023-10-23": {
-      "modrinth-mod": 184
+      "modrinth-mod": 217
     },
     "2023-10-24": {
-      "modrinth-mod": 184
+      "modrinth-mod": 218
     },
     "2023-10-25": {
-      "modrinth-mod": 184
+      "modrinth-mod": 219
     },
     "2023-10-26": {
       "modrinth-mod": 221
     },
     "2023-10-27": {
-      "modrinth-mod": 221
+      "modrinth-mod": 222
     },
     "2023-10-28": {
-      "modrinth-mod": 221
+      "modrinth-mod": 224
     },
     "2023-10-29": {
-      "modrinth-mod": 221
+      "modrinth-mod": 226
     },
     "2023-10-30": {
-      "modrinth-mod": 221
+      "modrinth-mod": 228
     },
     "2023-10-31": {
-      "modrinth-mod": 221
+      "modrinth-mod": 229
     },
     "2023-11-01": {
-      "modrinth-mod": 221
+      "modrinth-mod": 231
     },
     "2023-11-02": {
-      "modrinth-mod": 221
+      "modrinth-mod": 233
     },
     "2023-11-03": {
-      "modrinth-mod": 221
+      "modrinth-mod": 235
     },
     "2023-11-04": {
-      "modrinth-mod": 221
+      "modrinth-mod": 236
     },
     "2023-11-05": {
-      "modrinth-mod": 221
+      "modrinth-mod": 238
     },
     "2023-11-06": {
-      "modrinth-mod": 221
+      "modrinth-mod": 240
     },
     "2023-11-07": {
-      "modrinth-mod": 221
+      "modrinth-mod": 242
     },
     "2023-11-08": {
-      "modrinth-mod": 221
+      "modrinth-mod": 243
     },
     "2023-11-09": {
-      "modrinth-mod": 221
+      "modrinth-mod": 245
     },
     "2023-11-10": {
-      "modrinth-mod": 221
+      "modrinth-mod": 247
     },
     "2023-11-11": {
-      "modrinth-mod": 221
+      "modrinth-mod": 249
     },
     "2023-11-12": {
-      "modrinth-mod": 221
+      "modrinth-mod": 250
     },
     "2023-11-13": {
-      "modrinth-mod": 221
+      "modrinth-mod": 252
     },
     "2023-11-14": {
-      "modrinth-mod": 221
+      "modrinth-mod": 254
     },
     "2023-11-15": {
-      "modrinth-mod": 221
+      "modrinth-mod": 256
     },
     "2023-11-16": {
-      "modrinth-mod": 221
+      "modrinth-mod": 257
     },
     "2023-11-17": {
-      "modrinth-mod": 221
+      "modrinth-mod": 259
     },
     "2023-11-18": {
-      "modrinth-mod": 221
+      "modrinth-mod": 261
     },
     "2023-11-19": {
-      "modrinth-mod": 221
+      "modrinth-mod": 263
     },
     "2023-11-20": {
-      "modrinth-mod": 221
+      "modrinth-mod": 264
     },
     "2023-11-21": {
-      "modrinth-mod": 221
+      "modrinth-mod": 266
     },
     "2023-11-22": {
-      "modrinth-mod": 221
+      "modrinth-mod": 268
     },
     "2023-11-23": {
       "modrinth-mod": 270
     },
     "2023-11-24": {
-      "modrinth-mod": 270
+      "modrinth-mod": 272
     },
     "2023-11-25": {
-      "modrinth-mod": 270
+      "modrinth-mod": 274
     },
     "2023-11-26": {
-      "modrinth-mod": 270
+      "modrinth-mod": 276
     },
     "2023-11-27": {
-      "modrinth-mod": 270
+      "modrinth-mod": 278
     },
     "2023-11-28": {
-      "modrinth-mod": 270
+      "modrinth-mod": 280
     },
     "2023-11-29": {
-      "modrinth-mod": 270
+      "modrinth-mod": 282
     },
     "2023-11-30": {
-      "modrinth-mod": 270
+      "modrinth-mod": 284
     },
     "2023-12-01": {
-      "modrinth-mod": 270
+      "modrinth-mod": 286
     },
     "2023-12-02": {
-      "modrinth-mod": 270
+      "modrinth-mod": 288
     },
     "2023-12-03": {
-      "modrinth-mod": 270
+      "modrinth-mod": 290
     },
     "2023-12-04": {
-      "modrinth-mod": 270
+      "modrinth-mod": 292
     },
     "2023-12-05": {
-      "modrinth-mod": 270
+      "modrinth-mod": 294
     },
     "2023-12-06": {
-      "modrinth-mod": 270
+      "modrinth-mod": 296
     },
     "2023-12-07": {
-      "modrinth-mod": 270
+      "modrinth-mod": 299
     },
     "2023-12-08": {
-      "modrinth-mod": 270
+      "modrinth-mod": 301
     },
     "2023-12-09": {
-      "modrinth-mod": 270
+      "modrinth-mod": 303
     },
     "2023-12-10": {
-      "modrinth-mod": 270
+      "modrinth-mod": 305
     },
     "2023-12-11": {
-      "modrinth-mod": 270
+      "modrinth-mod": 307
     },
     "2023-12-12": {
-      "modrinth-mod": 270
+      "modrinth-mod": 309
     },
     "2023-12-13": {
-      "modrinth-mod": 270
+      "modrinth-mod": 311
     },
     "2023-12-14": {
-      "modrinth-mod": 270
+      "modrinth-mod": 313
     },
     "2023-12-15": {
-      "modrinth-mod": 270
+      "modrinth-mod": 315
     },
     "2023-12-16": {
-      "modrinth-mod": 270
+      "modrinth-mod": 317
     },
     "2023-12-17": {
-      "modrinth-mod": 270
+      "modrinth-mod": 319
     },
     "2023-12-18": {
-      "modrinth-mod": 270
+      "modrinth-mod": 321
     },
     "2023-12-19": {
-      "modrinth-mod": 270
+      "modrinth-mod": 323
     },
     "2023-12-20": {
-      "modrinth-mod": 270
+      "modrinth-mod": 325
     },
     "2023-12-21": {
       "modrinth-mod": 328
     },
     "2023-12-22": {
-      "modrinth-mod": 328
+      "modrinth-mod": 332
     },
     "2023-12-23": {
-      "modrinth-mod": 328
+      "modrinth-mod": 336
     },
     "2023-12-24": {
-      "modrinth-mod": 328
+      "modrinth-mod": 341
     },
     "2023-12-25": {
-      "modrinth-mod": 328
+      "modrinth-mod": 345
     },
     "2023-12-26": {
-      "modrinth-mod": 328
+      "modrinth-mod": 349
     },
     "2023-12-27": {
-      "modrinth-mod": 328
+      "modrinth-mod": 354
     },
     "2023-12-28": {
-      "modrinth-mod": 328
+      "modrinth-mod": 358
     },
     "2023-12-29": {
-      "modrinth-mod": 328
+      "modrinth-mod": 362
     },
     "2023-12-30": {
-      "modrinth-mod": 328
+      "modrinth-mod": 367
     },
     "2023-12-31": {
-      "modrinth-mod": 328
+      "modrinth-mod": 371
     },
     "2024-01-01": {
-      "modrinth-mod": 328
+      "modrinth-mod": 375
     },
     "2024-01-02": {
-      "modrinth-mod": 328
+      "modrinth-mod": 380
     },
     "2024-01-03": {
-      "modrinth-mod": 328
+      "modrinth-mod": 384
     },
     "2024-01-04": {
-      "modrinth-mod": 328
+      "modrinth-mod": 389
     },
     "2024-01-05": {
-      "modrinth-mod": 328
+      "modrinth-mod": 393
     },
     "2024-01-06": {
-      "modrinth-mod": 328
+      "modrinth-mod": 397
     },
     "2024-01-07": {
-      "modrinth-mod": 328
+      "modrinth-mod": 402
     },
     "2024-01-08": {
-      "modrinth-mod": 328
+      "modrinth-mod": 406
     },
     "2024-01-09": {
-      "modrinth-mod": 328
+      "modrinth-mod": 410
     },
     "2024-01-10": {
-      "modrinth-mod": 328
+      "modrinth-mod": 415
     },
     "2024-01-11": {
-      "modrinth-mod": 328
+      "modrinth-mod": 419
     },
     "2024-01-12": {
-      "modrinth-mod": 328
+      "modrinth-mod": 423
     },
     "2024-01-13": {
-      "modrinth-mod": 328
+      "modrinth-mod": 428
     },
     "2024-01-14": {
-      "modrinth-mod": 328
+      "modrinth-mod": 432
     },
     "2024-01-15": {
-      "modrinth-mod": 328
+      "modrinth-mod": 436
     },
     "2024-01-16": {
-      "modrinth-mod": 328
+      "modrinth-mod": 441
     },
     "2024-01-17": {
-      "modrinth-mod": 328
+      "modrinth-mod": 445
     },
     "2024-01-18": {
       "modrinth-mod": 450
     },
     "2024-01-19": {
-      "modrinth-mod": 450
+      "modrinth-mod": 456
     },
     "2024-01-20": {
-      "modrinth-mod": 450
+      "modrinth-mod": 462
     },
     "2024-01-21": {
-      "modrinth-mod": 450
+      "modrinth-mod": 468
     },
     "2024-01-22": {
-      "modrinth-mod": 450
+      "modrinth-mod": 475
     },
     "2024-01-23": {
-      "modrinth-mod": 450
+      "modrinth-mod": 481
     },
     "2024-01-24": {
-      "modrinth-mod": 450
+      "modrinth-mod": 487
     },
     "2024-01-25": {
-      "modrinth-mod": 450
+      "modrinth-mod": 494
     },
     "2024-01-26": {
-      "modrinth-mod": 450
+      "modrinth-mod": 500
     },
     "2024-01-27": {
-      "modrinth-mod": 450
+      "modrinth-mod": 506
     },
     "2024-01-28": {
-      "modrinth-mod": 450
+      "modrinth-mod": 513
     },
     "2024-01-29": {
-      "modrinth-mod": 450
+      "modrinth-mod": 519
     },
     "2024-01-30": {
-      "modrinth-mod": 450
+      "modrinth-mod": 525
     },
     "2024-01-31": {
-      "modrinth-mod": 450
+      "modrinth-mod": 532
     },
     "2024-02-01": {
-      "modrinth-mod": 450
+      "modrinth-mod": 538
     },
     "2024-02-02": {
-      "modrinth-mod": 450
+      "modrinth-mod": 544
     },
     "2024-02-03": {
-      "modrinth-mod": 450
+      "modrinth-mod": 551
     },
     "2024-02-04": {
-      "modrinth-mod": 450
+      "modrinth-mod": 557
     },
     "2024-02-05": {
-      "modrinth-mod": 450
+      "modrinth-mod": 563
     },
     "2024-02-06": {
-      "modrinth-mod": 450
+      "modrinth-mod": 570
     },
     "2024-02-07": {
-      "modrinth-mod": 450
+      "modrinth-mod": 576
     },
     "2024-02-08": {
-      "modrinth-mod": 450
+      "modrinth-mod": 582
     },
     "2024-02-09": {
-      "modrinth-mod": 450
+      "modrinth-mod": 589
     },
     "2024-02-10": {
-      "modrinth-mod": 450
+      "modrinth-mod": 595
     },
     "2024-02-11": {
-      "modrinth-mod": 450
+      "modrinth-mod": 601
     },
     "2024-02-12": {
-      "modrinth-mod": 450
+      "modrinth-mod": 608
     },
     "2024-02-13": {
-      "modrinth-mod": 450
+      "modrinth-mod": 614
     },
     "2024-02-14": {
-      "modrinth-mod": 450
+      "modrinth-mod": 620
     },
     "2024-02-15": {
       "modrinth-mod": 627
     },
     "2024-02-16": {
-      "modrinth-mod": 627
+      "modrinth-mod": 642
     },
     "2024-02-17": {
-      "modrinth-mod": 627
+      "modrinth-mod": 657
     },
     "2024-02-18": {
-      "modrinth-mod": 627
+      "modrinth-mod": 673
     },
     "2024-02-19": {
-      "modrinth-mod": 627
+      "modrinth-mod": 688
     },
     "2024-02-20": {
-      "modrinth-mod": 627
+      "modrinth-mod": 703
     },
     "2024-02-21": {
-      "modrinth-mod": 627
+      "modrinth-mod": 719
     },
     "2024-02-22": {
-      "modrinth-mod": 627
+      "modrinth-mod": 734
     },
     "2024-02-23": {
-      "modrinth-mod": 627
+      "modrinth-mod": 750
     },
     "2024-02-24": {
-      "modrinth-mod": 627
+      "modrinth-mod": 765
     },
     "2024-02-25": {
-      "modrinth-mod": 627
+      "modrinth-mod": 780
     },
     "2024-02-26": {
-      "modrinth-mod": 627
+      "modrinth-mod": 796
     },
     "2024-02-27": {
-      "modrinth-mod": 627
+      "modrinth-mod": 811
     },
     "2024-02-28": {
-      "modrinth-mod": 627
+      "modrinth-mod": 827
     },
     "2024-02-29": {
-      "modrinth-mod": 627
+      "modrinth-mod": 842
     },
     "2024-03-01": {
-      "modrinth-mod": 627
+      "modrinth-mod": 857
     },
     "2024-03-02": {
-      "modrinth-mod": 627
+      "modrinth-mod": 873
     },
     "2024-03-03": {
-      "modrinth-mod": 627
+      "modrinth-mod": 888
     },
     "2024-03-04": {
-      "modrinth-mod": 627
+      "modrinth-mod": 904
     },
     "2024-03-05": {
-      "modrinth-mod": 627
+      "modrinth-mod": 919
     },
     "2024-03-06": {
-      "modrinth-mod": 627
+      "modrinth-mod": 934
     },
     "2024-03-07": {
-      "modrinth-mod": 627
+      "modrinth-mod": 950
     },
     "2024-03-08": {
-      "modrinth-mod": 627
+      "modrinth-mod": 965
     },
     "2024-03-09": {
-      "modrinth-mod": 627
+      "modrinth-mod": 981
     },
     "2024-03-10": {
-      "modrinth-mod": 627
+      "modrinth-mod": 996
     },
     "2024-03-11": {
-      "modrinth-mod": 627
+      "modrinth-mod": 1011
     },
     "2024-03-12": {
-      "modrinth-mod": 627
+      "modrinth-mod": 1027
     },
     "2024-03-13": {
-      "modrinth-mod": 627
+      "modrinth-mod": 1042
     },
     "2024-03-14": {
       "modrinth-mod": 1058
     },
     "2024-03-15": {
-      "modrinth-mod": 1058
+      "modrinth-mod": 1070
     },
     "2024-03-16": {
-      "modrinth-mod": 1058
+      "modrinth-mod": 1083
     },
     "2024-03-17": {
-      "modrinth-mod": 1058
+      "modrinth-mod": 1096
     },
     "2024-03-18": {
-      "modrinth-mod": 1058
+      "modrinth-mod": 1109
     },
     "2024-03-19": {
-      "modrinth-mod": 1058
+      "modrinth-mod": 1122
     },
     "2024-03-20": {
-      "modrinth-mod": 1058
+      "modrinth-mod": 1135
     },
     "2024-03-21": {
-      "modrinth-mod": 1058
+      "modrinth-mod": 1148
     },
     "2024-03-22": {
-      "modrinth-mod": 1058
+      "modrinth-mod": 1161
     },
     "2024-03-23": {
-      "modrinth-mod": 1058
+      "modrinth-mod": 1174
     },
     "2024-03-24": {
-      "modrinth-mod": 1058
+      "modrinth-mod": 1187
     },
     "2024-03-25": {
-      "modrinth-mod": 1058
+      "modrinth-mod": 1200
     },
     "2024-03-26": {
-      "modrinth-mod": 1058
+      "modrinth-mod": 1213
     },
     "2024-03-27": {
-      "modrinth-mod": 1058
+      "modrinth-mod": 1226
     },
     "2024-03-28": {
-      "modrinth-mod": 1058
+      "modrinth-mod": 1239
     },
     "2024-03-29": {
-      "modrinth-mod": 1058
+      "modrinth-mod": 1251
     },
     "2024-03-30": {
-      "modrinth-mod": 1058
+      "modrinth-mod": 1264
     },
     "2024-03-31": {
-      "modrinth-mod": 1058
+      "modrinth-mod": 1277
     },
     "2024-04-01": {
-      "modrinth-mod": 1058
+      "modrinth-mod": 1290
     },
     "2024-04-02": {
-      "modrinth-mod": 1058
+      "modrinth-mod": 1303
     },
     "2024-04-03": {
-      "modrinth-mod": 1058
+      "modrinth-mod": 1316
     },
     "2024-04-04": {
-      "modrinth-mod": 1058
+      "modrinth-mod": 1329
     },
     "2024-04-05": {
-      "modrinth-mod": 1058
+      "modrinth-mod": 1342
     },
     "2024-04-06": {
-      "modrinth-mod": 1058
+      "modrinth-mod": 1355
     },
     "2024-04-07": {
-      "modrinth-mod": 1058
+      "modrinth-mod": 1368
     },
     "2024-04-08": {
-      "modrinth-mod": 1058
+      "modrinth-mod": 1381
     },
     "2024-04-09": {
-      "modrinth-mod": 1058
+      "modrinth-mod": 1394
     },
     "2024-04-10": {
-      "modrinth-mod": 1058
+      "modrinth-mod": 1407
     },
     "2024-04-11": {
       "modrinth-mod": 1420
     },
     "2024-04-12": {
-      "modrinth-mod": 1420
+      "modrinth-mod": 1435
     },
     "2024-04-13": {
-      "modrinth-mod": 1420
+      "modrinth-mod": 1451
     },
     "2024-04-14": {
-      "modrinth-mod": 1420
+      "modrinth-mod": 1466
     },
     "2024-04-15": {
-      "modrinth-mod": 1420
+      "modrinth-mod": 1482
     },
     "2024-04-16": {
-      "modrinth-mod": 1420
+      "modrinth-mod": 1497
     },
     "2024-04-17": {
-      "modrinth-mod": 1420
+      "modrinth-mod": 1513
     },
     "2024-04-18": {
-      "modrinth-mod": 1420
+      "modrinth-mod": 1529
     },
     "2024-04-19": {
-      "modrinth-mod": 1420
+      "modrinth-mod": 1544
     },
     "2024-04-20": {
-      "modrinth-mod": 1420
+      "modrinth-mod": 1560
     },
     "2024-04-21": {
-      "modrinth-mod": 1420
+      "modrinth-mod": 1575
     },
     "2024-04-22": {
-      "modrinth-mod": 1420
+      "modrinth-mod": 1591
     },
     "2024-04-23": {
-      "modrinth-mod": 1420
+      "modrinth-mod": 1606
     },
     "2024-04-24": {
-      "modrinth-mod": 1420
+      "modrinth-mod": 1622
     },
     "2024-04-25": {
-      "modrinth-mod": 1420
+      "modrinth-mod": 1638
     },
     "2024-04-26": {
-      "modrinth-mod": 1420
+      "modrinth-mod": 1653
     },
     "2024-04-27": {
-      "modrinth-mod": 1420
+      "modrinth-mod": 1669
     },
     "2024-04-28": {
-      "modrinth-mod": 1420
+      "modrinth-mod": 1684
     },
     "2024-04-29": {
-      "modrinth-mod": 1420
+      "modrinth-mod": 1700
     },
     "2024-04-30": {
-      "modrinth-mod": 1420
+      "modrinth-mod": 1715
     },
     "2024-05-01": {
-      "modrinth-mod": 1420
+      "modrinth-mod": 1731
     },
     "2024-05-02": {
-      "modrinth-mod": 1420
+      "modrinth-mod": 1747
     },
     "2024-05-03": {
-      "modrinth-mod": 1420
+      "modrinth-mod": 1762
     },
     "2024-05-04": {
-      "modrinth-mod": 1420
+      "modrinth-mod": 1778
     },
     "2024-05-05": {
-      "modrinth-mod": 1420
+      "modrinth-mod": 1793
     },
     "2024-05-06": {
-      "modrinth-mod": 1420
+      "modrinth-mod": 1809
     },
     "2024-05-07": {
-      "modrinth-mod": 1420
+      "modrinth-mod": 1824
     },
     "2024-05-08": {
-      "modrinth-mod": 1420
+      "modrinth-mod": 1840
     },
     "2024-05-09": {
       "modrinth-mod": 1856
     },
     "2024-05-10": {
-      "modrinth-mod": 1856
+      "modrinth-mod": 1873
     },
     "2024-05-11": {
-      "modrinth-mod": 1856
+      "modrinth-mod": 1890
     },
     "2024-05-12": {
-      "modrinth-mod": 1856
+      "modrinth-mod": 1907
     },
     "2024-05-13": {
-      "modrinth-mod": 1856
+      "modrinth-mod": 1924
     },
     "2024-05-14": {
-      "modrinth-mod": 1856
+      "modrinth-mod": 1941
     },
     "2024-05-15": {
-      "modrinth-mod": 1856
+      "modrinth-mod": 1958
     },
     "2024-05-16": {
-      "modrinth-mod": 1856
+      "modrinth-mod": 1975
     },
     "2024-05-17": {
-      "modrinth-mod": 1856
+      "modrinth-mod": 1992
     },
     "2024-05-18": {
-      "modrinth-mod": 1856
+      "modrinth-mod": 2009
     },
     "2024-05-19": {
-      "modrinth-mod": 1856
+      "modrinth-mod": 2026
     },
     "2024-05-20": {
-      "modrinth-mod": 1856
+      "modrinth-mod": 2043
     },
     "2024-05-21": {
-      "modrinth-mod": 1856
+      "modrinth-mod": 2060
     },
     "2024-05-22": {
-      "modrinth-mod": 1856
+      "modrinth-mod": 2077
     },
     "2024-05-23": {
-      "modrinth-mod": 1856
+      "modrinth-mod": 2094
     },
     "2024-05-24": {
-      "modrinth-mod": 1856
+      "modrinth-mod": 2111
     },
     "2024-05-25": {
-      "modrinth-mod": 1856
+      "modrinth-mod": 2128
     },
     "2024-05-26": {
-      "modrinth-mod": 1856
+      "modrinth-mod": 2145
     },
     "2024-05-27": {
-      "modrinth-mod": 1856
+      "modrinth-mod": 2162
     },
     "2024-05-28": {
-      "modrinth-mod": 1856
+      "modrinth-mod": 2179
     },
     "2024-05-29": {
-      "modrinth-mod": 1856
+      "modrinth-mod": 2196
     },
     "2024-05-30": {
-      "modrinth-mod": 1856
+      "modrinth-mod": 2213
     },
     "2024-05-31": {
-      "modrinth-mod": 1856
+      "modrinth-mod": 2230
     },
     "2024-06-01": {
-      "modrinth-mod": 1856
+      "modrinth-mod": 2247
     },
     "2024-06-02": {
-      "modrinth-mod": 1856
+      "modrinth-mod": 2264
     },
     "2024-06-03": {
-      "modrinth-mod": 1856
+      "modrinth-mod": 2281
     },
     "2024-06-04": {
-      "modrinth-mod": 1856
+      "modrinth-mod": 2298
     },
     "2024-06-05": {
-      "modrinth-mod": 1856
+      "modrinth-mod": 2315
     },
     "2024-06-06": {
       "modrinth-mod": 2332
     },
     "2024-06-07": {
-      "modrinth-mod": 2332
+      "modrinth-mod": 2350
     },
     "2024-06-08": {
-      "modrinth-mod": 2332
+      "modrinth-mod": 2369
     },
     "2024-06-09": {
-      "modrinth-mod": 2332
+      "modrinth-mod": 2388
     },
     "2024-06-10": {
-      "modrinth-mod": 2332
+      "modrinth-mod": 2406
     },
     "2024-06-11": {
-      "modrinth-mod": 2332
+      "modrinth-mod": 2425
     },
     "2024-06-12": {
-      "modrinth-mod": 2332
+      "modrinth-mod": 2444
     },
     "2024-06-13": {
-      "modrinth-mod": 2332
+      "modrinth-mod": 2463
     },
     "2024-06-14": {
-      "modrinth-mod": 2332
+      "modrinth-mod": 2481
     },
     "2024-06-15": {
-      "modrinth-mod": 2332
+      "modrinth-mod": 2500
     },
     "2024-06-16": {
-      "modrinth-mod": 2332
+      "modrinth-mod": 2519
     },
     "2024-06-17": {
-      "modrinth-mod": 2332
+      "modrinth-mod": 2537
     },
     "2024-06-18": {
-      "modrinth-mod": 2332
+      "modrinth-mod": 2556
     },
     "2024-06-19": {
-      "modrinth-mod": 2332
+      "modrinth-mod": 2575
     },
     "2024-06-20": {
-      "modrinth-mod": 2332
+      "modrinth-mod": 2594
     },
     "2024-06-21": {
-      "modrinth-mod": 2332
+      "modrinth-mod": 2612
     },
     "2024-06-22": {
-      "modrinth-mod": 2332
+      "modrinth-mod": 2631
     },
     "2024-06-23": {
-      "modrinth-mod": 2332
+      "modrinth-mod": 2650
     },
     "2024-06-24": {
-      "modrinth-mod": 2332
+      "modrinth-mod": 2668
     },
     "2024-06-25": {
-      "modrinth-mod": 2332
+      "modrinth-mod": 2687
     },
     "2024-06-26": {
-      "modrinth-mod": 2332
+      "modrinth-mod": 2706
     },
     "2024-06-27": {
-      "modrinth-mod": 2332
+      "modrinth-mod": 2725
     },
     "2024-06-28": {
-      "modrinth-mod": 2332
+      "modrinth-mod": 2743
     },
     "2024-06-29": {
-      "modrinth-mod": 2332
+      "modrinth-mod": 2762
     },
     "2024-06-30": {
-      "modrinth-mod": 2332
+      "modrinth-mod": 2781
     },
     "2024-07-01": {
-      "modrinth-mod": 2332
+      "modrinth-mod": 2799
     },
     "2024-07-02": {
-      "modrinth-mod": 2332
+      "modrinth-mod": 2818
     },
     "2024-07-03": {
-      "modrinth-mod": 2332
+      "modrinth-mod": 2837
     },
     "2024-07-04": {
       "modrinth-mod": 2856
     },
     "2024-07-05": {
-      "modrinth-mod": 2856
+      "modrinth-mod": 2872
     },
     "2024-07-06": {
-      "modrinth-mod": 2856
+      "modrinth-mod": 2888
     },
     "2024-07-07": {
-      "modrinth-mod": 2856
+      "modrinth-mod": 2905
     },
     "2024-07-08": {
-      "modrinth-mod": 2856
+      "modrinth-mod": 2921
     },
     "2024-07-09": {
-      "modrinth-mod": 2856
+      "modrinth-mod": 2937
     },
     "2024-07-10": {
-      "modrinth-mod": 2856
+      "modrinth-mod": 2954
     },
     "2024-07-11": {
-      "modrinth-mod": 2856
+      "modrinth-mod": 2970
     },
     "2024-07-12": {
-      "modrinth-mod": 2856
+      "modrinth-mod": 2987
     },
     "2024-07-13": {
-      "modrinth-mod": 2856
+      "modrinth-mod": 3003
     },
     "2024-07-14": {
-      "modrinth-mod": 2856
+      "modrinth-mod": 3019
     },
     "2024-07-15": {
-      "modrinth-mod": 2856
+      "modrinth-mod": 3036
     },
     "2024-07-16": {
-      "modrinth-mod": 2856
+      "modrinth-mod": 3052
     },
     "2024-07-17": {
-      "modrinth-mod": 2856
+      "modrinth-mod": 3069
     },
     "2024-07-18": {
-      "modrinth-mod": 2856
+      "modrinth-mod": 3085
     },
     "2024-07-19": {
-      "modrinth-mod": 2856
+      "modrinth-mod": 3101
     },
     "2024-07-20": {
-      "modrinth-mod": 2856
+      "modrinth-mod": 3118
     },
     "2024-07-21": {
-      "modrinth-mod": 2856
+      "modrinth-mod": 3134
     },
     "2024-07-22": {
-      "modrinth-mod": 2856
+      "modrinth-mod": 3151
     },
     "2024-07-23": {
-      "modrinth-mod": 2856
+      "modrinth-mod": 3167
     },
     "2024-07-24": {
-      "modrinth-mod": 2856
+      "modrinth-mod": 3183
     },
     "2024-07-25": {
-      "modrinth-mod": 2856
+      "modrinth-mod": 3200
     },
     "2024-07-26": {
-      "modrinth-mod": 2856
+      "modrinth-mod": 3216
     },
     "2024-07-27": {
-      "modrinth-mod": 2856
+      "modrinth-mod": 3233
     },
     "2024-07-28": {
-      "modrinth-mod": 2856
+      "modrinth-mod": 3249
     },
     "2024-07-29": {
-      "modrinth-mod": 2856
+      "modrinth-mod": 3265
     },
     "2024-07-30": {
-      "modrinth-mod": 2856
+      "modrinth-mod": 3282
     },
     "2024-07-31": {
-      "modrinth-mod": 2856
+      "modrinth-mod": 3298
     },
     "2024-08-01": {
       "modrinth-mod": 3315
     },
     "2024-08-02": {
-      "modrinth-mod": 3315
+      "modrinth-mod": 3329
     },
     "2024-08-03": {
-      "modrinth-mod": 3315
+      "modrinth-mod": 3343
     },
     "2024-08-04": {
-      "modrinth-mod": 3315
+      "modrinth-mod": 3357
     },
     "2024-08-05": {
-      "modrinth-mod": 3315
+      "modrinth-mod": 3371
     },
     "2024-08-06": {
-      "modrinth-mod": 3315
+      "modrinth-mod": 3385
     },
     "2024-08-07": {
-      "modrinth-mod": 3315
+      "modrinth-mod": 3399
     },
     "2024-08-08": {
-      "modrinth-mod": 3315
+      "modrinth-mod": 3413
     },
     "2024-08-09": {
-      "modrinth-mod": 3315
+      "modrinth-mod": 3427
     },
     "2024-08-10": {
-      "modrinth-mod": 3315
+      "modrinth-mod": 3441
     },
     "2024-08-11": {
-      "modrinth-mod": 3315
+      "modrinth-mod": 3456
     },
     "2024-08-12": {
-      "modrinth-mod": 3315
+      "modrinth-mod": 3470
     },
     "2024-08-13": {
-      "modrinth-mod": 3315
+      "modrinth-mod": 3484
     },
     "2024-08-14": {
-      "modrinth-mod": 3315
+      "modrinth-mod": 3498
     },
     "2024-08-15": {
-      "modrinth-mod": 3315
+      "modrinth-mod": 3512
     },
     "2024-08-16": {
-      "modrinth-mod": 3315
+      "modrinth-mod": 3526
     },
     "2024-08-17": {
-      "modrinth-mod": 3315
+      "modrinth-mod": 3540
     },
     "2024-08-18": {
-      "modrinth-mod": 3315
+      "modrinth-mod": 3554
     },
     "2024-08-19": {
-      "modrinth-mod": 3315
+      "modrinth-mod": 3568
     },
     "2024-08-20": {
-      "modrinth-mod": 3315
+      "modrinth-mod": 3583
     },
     "2024-08-21": {
-      "modrinth-mod": 3315
+      "modrinth-mod": 3597
     },
     "2024-08-22": {
-      "modrinth-mod": 3315
+      "modrinth-mod": 3611
     },
     "2024-08-23": {
-      "modrinth-mod": 3315
+      "modrinth-mod": 3625
     },
     "2024-08-24": {
-      "modrinth-mod": 3315
+      "modrinth-mod": 3639
     },
     "2024-08-25": {
-      "modrinth-mod": 3315
+      "modrinth-mod": 3653
     },
     "2024-08-26": {
-      "modrinth-mod": 3315
+      "modrinth-mod": 3667
     },
     "2024-08-27": {
-      "modrinth-mod": 3315
+      "modrinth-mod": 3681
     },
     "2024-08-28": {
-      "modrinth-mod": 3315
+      "modrinth-mod": 3695
     },
     "2024-08-29": {
       "modrinth-mod": 3710
     },
     "2024-08-30": {
-      "modrinth-mod": 3710
+      "modrinth-mod": 3722
     },
     "2024-08-31": {
-      "modrinth-mod": 3710
+      "modrinth-mod": 3734
     },
     "2024-09-01": {
-      "modrinth-mod": 3710
+      "modrinth-mod": 3746
     },
     "2024-09-02": {
-      "modrinth-mod": 3710
+      "modrinth-mod": 3758
     },
     "2024-09-03": {
-      "modrinth-mod": 3710
+      "modrinth-mod": 3770
     },
     "2024-09-04": {
-      "modrinth-mod": 3710
+      "modrinth-mod": 3783
     },
     "2024-09-05": {
-      "modrinth-mod": 3710
+      "modrinth-mod": 3795
     },
     "2024-09-06": {
-      "modrinth-mod": 3710
+      "modrinth-mod": 3807
     },
     "2024-09-07": {
-      "modrinth-mod": 3710
+      "modrinth-mod": 3819
     },
     "2024-09-08": {
-      "modrinth-mod": 3710
+      "modrinth-mod": 3831
     },
     "2024-09-09": {
-      "modrinth-mod": 3710
+      "modrinth-mod": 3843
     },
     "2024-09-10": {
-      "modrinth-mod": 3710
+      "modrinth-mod": 3856
     },
     "2024-09-11": {
-      "modrinth-mod": 3710
+      "modrinth-mod": 3868
     },
     "2024-09-12": {
-      "modrinth-mod": 3710
+      "modrinth-mod": 3880
     },
     "2024-09-13": {
-      "modrinth-mod": 3710
+      "modrinth-mod": 3892
     },
     "2024-09-14": {
-      "modrinth-mod": 3710
+      "modrinth-mod": 3904
     },
     "2024-09-15": {
-      "modrinth-mod": 3710
+      "modrinth-mod": 3917
     },
     "2024-09-16": {
-      "modrinth-mod": 3710
+      "modrinth-mod": 3929
     },
     "2024-09-17": {
-      "modrinth-mod": 3710
+      "modrinth-mod": 3941
     },
     "2024-09-18": {
-      "modrinth-mod": 3710
+      "modrinth-mod": 3953
     },
     "2024-09-19": {
-      "modrinth-mod": 3710
+      "modrinth-mod": 3965
     },
     "2024-09-20": {
-      "modrinth-mod": 3710
+      "modrinth-mod": 3977
     },
     "2024-09-21": {
-      "modrinth-mod": 3710
+      "modrinth-mod": 3990
     },
     "2024-09-22": {
-      "modrinth-mod": 3710
+      "modrinth-mod": 4002
     },
     "2024-09-23": {
-      "modrinth-mod": 3710
+      "modrinth-mod": 4014
     },
     "2024-09-24": {
-      "modrinth-mod": 3710
+      "modrinth-mod": 4026
     },
     "2024-09-25": {
-      "modrinth-mod": 3710
+      "modrinth-mod": 4038
     },
     "2024-09-26": {
       "modrinth-mod": 4051
     },
     "2024-09-27": {
-      "modrinth-mod": 4051
+      "modrinth-mod": 4061
     },
     "2024-09-28": {
-      "modrinth-mod": 4051
+      "modrinth-mod": 4071
     },
     "2024-09-29": {
-      "modrinth-mod": 4051
+      "modrinth-mod": 4081
     },
     "2024-09-30": {
-      "modrinth-mod": 4051
+      "modrinth-mod": 4091
     },
     "2024-10-01": {
-      "modrinth-mod": 4051
+      "modrinth-mod": 4101
     },
     "2024-10-02": {
-      "modrinth-mod": 4051
+      "modrinth-mod": 4111
     },
     "2024-10-03": {
-      "modrinth-mod": 4051
+      "modrinth-mod": 4121
     },
     "2024-10-04": {
-      "modrinth-mod": 4051
+      "modrinth-mod": 4131
     },
     "2024-10-05": {
-      "modrinth-mod": 4051
+      "modrinth-mod": 4141
     },
     "2024-10-06": {
-      "modrinth-mod": 4051
+      "modrinth-mod": 4151
     },
     "2024-10-07": {
-      "modrinth-mod": 4051
+      "modrinth-mod": 4161
     },
     "2024-10-08": {
-      "modrinth-mod": 4051
+      "modrinth-mod": 4171
     },
     "2024-10-09": {
-      "modrinth-mod": 4051
+      "modrinth-mod": 4181
     },
     "2024-10-10": {
-      "modrinth-mod": 4051
+      "modrinth-mod": 4191
     },
     "2024-10-11": {
-      "modrinth-mod": 4051
+      "modrinth-mod": 4201
     },
     "2024-10-12": {
-      "modrinth-mod": 4051
+      "modrinth-mod": 4211
     },
     "2024-10-13": {
-      "modrinth-mod": 4051
+      "modrinth-mod": 4221
     },
     "2024-10-14": {
-      "modrinth-mod": 4051
+      "modrinth-mod": 4231
     },
     "2024-10-15": {
-      "modrinth-mod": 4051
+      "modrinth-mod": 4241
     },
     "2024-10-16": {
-      "modrinth-mod": 4051
+      "modrinth-mod": 4251
     },
     "2024-10-17": {
-      "modrinth-mod": 4051
+      "modrinth-mod": 4261
     },
     "2024-10-18": {
-      "modrinth-mod": 4051
+      "modrinth-mod": 4271
     },
     "2024-10-19": {
-      "modrinth-mod": 4051
+      "modrinth-mod": 4281
     },
     "2024-10-20": {
-      "modrinth-mod": 4051
+      "modrinth-mod": 4291
     },
     "2024-10-21": {
-      "modrinth-mod": 4051
+      "modrinth-mod": 4301
     },
     "2024-10-22": {
-      "modrinth-mod": 4051
+      "modrinth-mod": 4311
     },
     "2024-10-23": {
-      "modrinth-mod": 4051
+      "modrinth-mod": 4321
     },
     "2024-10-24": {
       "modrinth-mod": 4332
     },
     "2024-10-25": {
-      "modrinth-mod": 4332
+      "modrinth-mod": 4340
     },
     "2024-10-26": {
-      "modrinth-mod": 4332
+      "modrinth-mod": 4348
     },
     "2024-10-27": {
-      "modrinth-mod": 4332
+      "modrinth-mod": 4357
     },
     "2024-10-28": {
-      "modrinth-mod": 4332
+      "modrinth-mod": 4365
     },
     "2024-10-29": {
-      "modrinth-mod": 4332
+      "modrinth-mod": 4373
     },
     "2024-10-30": {
-      "modrinth-mod": 4332
+      "modrinth-mod": 4382
     },
     "2024-10-31": {
-      "modrinth-mod": 4332
+      "modrinth-mod": 4390
     },
     "2024-11-01": {
-      "modrinth-mod": 4332
+      "modrinth-mod": 4398
     },
     "2024-11-02": {
-      "modrinth-mod": 4332
+      "modrinth-mod": 4407
     },
     "2024-11-03": {
-      "modrinth-mod": 4332
+      "modrinth-mod": 4415
     },
     "2024-11-04": {
-      "modrinth-mod": 4332
+      "modrinth-mod": 4423
     },
     "2024-11-05": {
-      "modrinth-mod": 4332
+      "modrinth-mod": 4432
     },
     "2024-11-06": {
-      "modrinth-mod": 4332
+      "modrinth-mod": 4440
     },
     "2024-11-07": {
-      "modrinth-mod": 4332
+      "modrinth-mod": 4449
     },
     "2024-11-08": {
-      "modrinth-mod": 4332
+      "modrinth-mod": 4457
     },
     "2024-11-09": {
-      "modrinth-mod": 4332
+      "modrinth-mod": 4465
     },
     "2024-11-10": {
-      "modrinth-mod": 4332
+      "modrinth-mod": 4474
     },
     "2024-11-11": {
-      "modrinth-mod": 4332
+      "modrinth-mod": 4482
     },
     "2024-11-12": {
-      "modrinth-mod": 4332
+      "modrinth-mod": 4490
     },
     "2024-11-13": {
-      "modrinth-mod": 4332
+      "modrinth-mod": 4499
     },
     "2024-11-14": {
-      "modrinth-mod": 4332
+      "modrinth-mod": 4507
     },
     "2024-11-15": {
-      "modrinth-mod": 4332
+      "modrinth-mod": 4515
     },
     "2024-11-16": {
-      "modrinth-mod": 4332
+      "modrinth-mod": 4524
     },
     "2024-11-17": {
-      "modrinth-mod": 4332
+      "modrinth-mod": 4532
     },
     "2024-11-18": {
-      "modrinth-mod": 4332
+      "modrinth-mod": 4540
     },
     "2024-11-19": {
-      "modrinth-mod": 4332
+      "modrinth-mod": 4549
     },
     "2024-11-20": {
-      "modrinth-mod": 4332
+      "modrinth-mod": 4557
     },
     "2024-11-21": {
       "modrinth-mod": 4566
     },
     "2024-11-22": {
-      "modrinth-mod": 4566
+      "modrinth-mod": 4573
     },
     "2024-11-23": {
-      "modrinth-mod": 4566
+      "modrinth-mod": 4580
     },
     "2024-11-24": {
-      "modrinth-mod": 4566
+      "modrinth-mod": 4588
     },
     "2024-11-25": {
-      "modrinth-mod": 4566
+      "modrinth-mod": 4595
     },
     "2024-11-26": {
-      "modrinth-mod": 4566
+      "modrinth-mod": 4603
     },
     "2024-11-27": {
-      "modrinth-mod": 4566
+      "modrinth-mod": 4610
     },
     "2024-11-28": {
-      "modrinth-mod": 4566
+      "modrinth-mod": 4618
     },
     "2024-11-29": {
-      "modrinth-mod": 4566
+      "modrinth-mod": 4625
     },
     "2024-11-30": {
-      "modrinth-mod": 4566
+      "modrinth-mod": 4633
     },
     "2024-12-01": {
-      "modrinth-mod": 4566
+      "modrinth-mod": 4640
     },
     "2024-12-02": {
-      "modrinth-mod": 4566
+      "modrinth-mod": 4648
     },
     "2024-12-03": {
-      "modrinth-mod": 4566
+      "modrinth-mod": 4655
     },
     "2024-12-04": {
-      "modrinth-mod": 4566
+      "modrinth-mod": 4663
     },
     "2024-12-05": {
-      "modrinth-mod": 4566
+      "modrinth-mod": 4670
     },
     "2024-12-06": {
-      "modrinth-mod": 4566
+      "modrinth-mod": 4677
     },
     "2024-12-07": {
-      "modrinth-mod": 4566
+      "modrinth-mod": 4685
     },
     "2024-12-08": {
-      "modrinth-mod": 4566
+      "modrinth-mod": 4692
     },
     "2024-12-09": {
-      "modrinth-mod": 4566
+      "modrinth-mod": 4700
     },
     "2024-12-10": {
-      "modrinth-mod": 4566
+      "modrinth-mod": 4707
     },
     "2024-12-11": {
-      "modrinth-mod": 4566
+      "modrinth-mod": 4715
     },
     "2024-12-12": {
-      "modrinth-mod": 4566
+      "modrinth-mod": 4722
     },
     "2024-12-13": {
-      "modrinth-mod": 4566
+      "modrinth-mod": 4730
     },
     "2024-12-14": {
-      "modrinth-mod": 4566
+      "modrinth-mod": 4737
     },
     "2024-12-15": {
-      "modrinth-mod": 4566
+      "modrinth-mod": 4745
     },
     "2024-12-16": {
-      "modrinth-mod": 4566
+      "modrinth-mod": 4752
     },
     "2024-12-17": {
-      "modrinth-mod": 4566
+      "modrinth-mod": 4760
     },
     "2024-12-18": {
-      "modrinth-mod": 4566
+      "modrinth-mod": 4767
     },
     "2024-12-19": {
       "modrinth-mod": 4775
     },
     "2024-12-20": {
-      "modrinth-mod": 4775
+      "modrinth-mod": 4782
     },
     "2024-12-21": {
-      "modrinth-mod": 4775
+      "modrinth-mod": 4790
     },
     "2024-12-22": {
-      "modrinth-mod": 4775
+      "modrinth-mod": 4797
     },
     "2024-12-23": {
-      "modrinth-mod": 4775
+      "modrinth-mod": 4805
     },
     "2024-12-24": {
-      "modrinth-mod": 4775
+      "modrinth-mod": 4813
     },
     "2024-12-25": {
-      "modrinth-mod": 4775
+      "modrinth-mod": 4820
     },
     "2024-12-26": {
-      "modrinth-mod": 4775
+      "modrinth-mod": 4828
     },
     "2024-12-27": {
-      "modrinth-mod": 4775
+      "modrinth-mod": 4835
     },
     "2024-12-28": {
-      "modrinth-mod": 4775
+      "modrinth-mod": 4843
     },
     "2024-12-29": {
-      "modrinth-mod": 4775
+      "modrinth-mod": 4851
     },
     "2024-12-30": {
-      "modrinth-mod": 4775
+      "modrinth-mod": 4858
     },
     "2024-12-31": {
-      "modrinth-mod": 4775
+      "modrinth-mod": 4866
     },
     "2025-01-01": {
-      "modrinth-mod": 4775
+      "modrinth-mod": 4873
     },
     "2025-01-02": {
-      "modrinth-mod": 4775
+      "modrinth-mod": 4881
     },
     "2025-01-03": {
-      "modrinth-mod": 4775
+      "modrinth-mod": 4889
     },
     "2025-01-04": {
-      "modrinth-mod": 4775
+      "modrinth-mod": 4896
     },
     "2025-01-05": {
-      "modrinth-mod": 4775
+      "modrinth-mod": 4904
     },
     "2025-01-06": {
-      "modrinth-mod": 4775
+      "modrinth-mod": 4911
     },
     "2025-01-07": {
-      "modrinth-mod": 4775
+      "modrinth-mod": 4919
     },
     "2025-01-08": {
-      "modrinth-mod": 4775
+      "modrinth-mod": 4927
     },
     "2025-01-09": {
-      "modrinth-mod": 4775
+      "modrinth-mod": 4934
     },
     "2025-01-10": {
-      "modrinth-mod": 4775
+      "modrinth-mod": 4942
     },
     "2025-01-11": {
-      "modrinth-mod": 4775
+      "modrinth-mod": 4949
     },
     "2025-01-12": {
-      "modrinth-mod": 4775
+      "modrinth-mod": 4957
     },
     "2025-01-13": {
-      "modrinth-mod": 4775
+      "modrinth-mod": 4965
     },
     "2025-01-14": {
-      "modrinth-mod": 4775
+      "modrinth-mod": 4972
     },
     "2025-01-15": {
-      "modrinth-mod": 4775
+      "modrinth-mod": 4980
     },
     "2025-01-16": {
       "modrinth-mod": 4988
     },
     "2025-01-17": {
-      "modrinth-mod": 4988
+      "modrinth-mod": 4995
     },
     "2025-01-18": {
-      "modrinth-mod": 4988
+      "modrinth-mod": 5002
     },
     "2025-01-19": {
-      "modrinth-mod": 4988
+      "modrinth-mod": 5010
     },
     "2025-01-20": {
-      "modrinth-mod": 4988
+      "modrinth-mod": 5017
     },
     "2025-01-21": {
-      "modrinth-mod": 4988
+      "modrinth-mod": 5025
     },
     "2025-01-22": {
-      "modrinth-mod": 4988
+      "modrinth-mod": 5032
     },
     "2025-01-23": {
-      "modrinth-mod": 4988
+      "modrinth-mod": 5040
     },
     "2025-01-24": {
-      "modrinth-mod": 4988
+      "modrinth-mod": 5047
     },
     "2025-01-25": {
-      "modrinth-mod": 4988
+      "modrinth-mod": 5055
     },
     "2025-01-26": {
-      "modrinth-mod": 4988
+      "modrinth-mod": 5062
     },
     "2025-01-27": {
-      "modrinth-mod": 4988
+      "modrinth-mod": 5070
     },
     "2025-01-28": {
-      "modrinth-mod": 4988
+      "modrinth-mod": 5077
     },
     "2025-01-29": {
-      "modrinth-mod": 4988
+      "modrinth-mod": 5085
     },
     "2025-01-30": {
-      "modrinth-mod": 4988
+      "modrinth-mod": 5092
     },
     "2025-01-31": {
-      "modrinth-mod": 4988
+      "modrinth-mod": 5099
     },
     "2025-02-01": {
-      "modrinth-mod": 4988
+      "modrinth-mod": 5107
     },
     "2025-02-02": {
-      "modrinth-mod": 4988
+      "modrinth-mod": 5114
     },
     "2025-02-03": {
-      "modrinth-mod": 4988
+      "modrinth-mod": 5122
     },
     "2025-02-04": {
-      "modrinth-mod": 4988
+      "modrinth-mod": 5129
     },
     "2025-02-05": {
-      "modrinth-mod": 4988
+      "modrinth-mod": 5137
     },
     "2025-02-06": {
-      "modrinth-mod": 4988
+      "modrinth-mod": 5144
     },
     "2025-02-07": {
-      "modrinth-mod": 4988
+      "modrinth-mod": 5152
     },
     "2025-02-08": {
-      "modrinth-mod": 4988
+      "modrinth-mod": 5159
     },
     "2025-02-09": {
-      "modrinth-mod": 4988
+      "modrinth-mod": 5167
     },
     "2025-02-10": {
-      "modrinth-mod": 4988
+      "modrinth-mod": 5174
     },
     "2025-02-11": {
-      "modrinth-mod": 4988
+      "modrinth-mod": 5182
     },
     "2025-02-12": {
-      "modrinth-mod": 4988
+      "modrinth-mod": 5189
     },
     "2025-02-13": {
       "modrinth-mod": 5197
     },
     "2025-02-14": {
-      "modrinth-mod": 5197
+      "modrinth-mod": 5203
     },
     "2025-02-15": {
-      "modrinth-mod": 5197
+      "modrinth-mod": 5209
     },
     "2025-02-16": {
-      "modrinth-mod": 5197
+      "modrinth-mod": 5215
     },
     "2025-02-17": {
-      "modrinth-mod": 5197
+      "modrinth-mod": 5222
     },
     "2025-02-18": {
-      "modrinth-mod": 5197
+      "modrinth-mod": 5228
     },
     "2025-02-19": {
-      "modrinth-mod": 5197
+      "modrinth-mod": 5234
     },
     "2025-02-20": {
-      "modrinth-mod": 5197
+      "modrinth-mod": 5240
     },
     "2025-02-21": {
-      "modrinth-mod": 5197
+      "modrinth-mod": 5247
     },
     "2025-02-22": {
-      "modrinth-mod": 5197
+      "modrinth-mod": 5253
     },
     "2025-02-23": {
-      "modrinth-mod": 5197
+      "modrinth-mod": 5259
     },
     "2025-02-24": {
-      "modrinth-mod": 5197
+      "modrinth-mod": 5265
     },
     "2025-02-25": {
-      "modrinth-mod": 5197
+      "modrinth-mod": 5272
     },
     "2025-02-26": {
-      "modrinth-mod": 5197
+      "modrinth-mod": 5278
     },
     "2025-02-27": {
-      "modrinth-mod": 5197
+      "modrinth-mod": 5284
     },
     "2025-02-28": {
-      "modrinth-mod": 5197
+      "modrinth-mod": 5290
     },
     "2025-03-01": {
-      "modrinth-mod": 5197
+      "modrinth-mod": 5297
     },
     "2025-03-02": {
-      "modrinth-mod": 5197
+      "modrinth-mod": 5303
     },
     "2025-03-03": {
-      "modrinth-mod": 5197
+      "modrinth-mod": 5309
     },
     "2025-03-04": {
-      "modrinth-mod": 5197
+      "modrinth-mod": 5315
     },
     "2025-03-05": {
-      "modrinth-mod": 5197
+      "modrinth-mod": 5322
     },
     "2025-03-06": {
-      "modrinth-mod": 5197
+      "modrinth-mod": 5328
     },
     "2025-03-07": {
-      "modrinth-mod": 5197
+      "modrinth-mod": 5334
     },
     "2025-03-08": {
-      "modrinth-mod": 5197
+      "modrinth-mod": 5340
     },
     "2025-03-09": {
-      "modrinth-mod": 5197
+      "modrinth-mod": 5347
     },
     "2025-03-10": {
-      "modrinth-mod": 5197
+      "modrinth-mod": 5353
     },
     "2025-03-11": {
-      "modrinth-mod": 5197
+      "modrinth-mod": 5359
     },
     "2025-03-12": {
-      "modrinth-mod": 5197
+      "modrinth-mod": 5365
     },
     "2025-03-13": {
       "modrinth-mod": 5372
     },
     "2025-03-14": {
-      "modrinth-mod": 5372
+      "modrinth-mod": 5380
     },
     "2025-03-15": {
-      "modrinth-mod": 5372
+      "modrinth-mod": 5389
     },
     "2025-03-16": {
-      "modrinth-mod": 5372
+      "modrinth-mod": 5398
     },
     "2025-03-17": {
-      "modrinth-mod": 5372
+      "modrinth-mod": 5407
     },
     "2025-03-18": {
-      "modrinth-mod": 5372
+      "modrinth-mod": 5416
     },
     "2025-03-19": {
-      "modrinth-mod": 5372
+      "modrinth-mod": 5424
     },
     "2025-03-20": {
-      "modrinth-mod": 5372
+      "modrinth-mod": 5433
     },
     "2025-03-21": {
-      "modrinth-mod": 5372
+      "modrinth-mod": 5442
     },
     "2025-03-22": {
-      "modrinth-mod": 5372
+      "modrinth-mod": 5451
     },
     "2025-03-23": {
-      "modrinth-mod": 5372
+      "modrinth-mod": 5460
     },
     "2025-03-24": {
-      "modrinth-mod": 5372
+      "modrinth-mod": 5469
     },
     "2025-03-25": {
-      "modrinth-mod": 5372
+      "modrinth-mod": 5477
     },
     "2025-03-26": {
-      "modrinth-mod": 5372
+      "modrinth-mod": 5486
     },
     "2025-03-27": {
-      "modrinth-mod": 5372
+      "modrinth-mod": 5495
     },
     "2025-03-28": {
-      "modrinth-mod": 5372
+      "modrinth-mod": 5504
     },
     "2025-03-29": {
-      "modrinth-mod": 5372
+      "modrinth-mod": 5513
     },
     "2025-03-30": {
-      "modrinth-mod": 5372
+      "modrinth-mod": 5521
     },
     "2025-03-31": {
-      "modrinth-mod": 5372
+      "modrinth-mod": 5530
     },
     "2025-04-01": {
-      "modrinth-mod": 5372
+      "modrinth-mod": 5539
     },
     "2025-04-02": {
-      "modrinth-mod": 5372
+      "modrinth-mod": 5548
     },
     "2025-04-03": {
-      "modrinth-mod": 5372
+      "modrinth-mod": 5557
     },
     "2025-04-04": {
-      "modrinth-mod": 5372
+      "modrinth-mod": 5566
     },
     "2025-04-05": {
-      "modrinth-mod": 5372
+      "modrinth-mod": 5574
     },
     "2025-04-06": {
-      "modrinth-mod": 5372
+      "modrinth-mod": 5583
     },
     "2025-04-07": {
-      "modrinth-mod": 5372
+      "modrinth-mod": 5592
     },
     "2025-04-08": {
-      "modrinth-mod": 5372
+      "modrinth-mod": 5601
     },
     "2025-04-09": {
-      "modrinth-mod": 5372
+      "modrinth-mod": 5610
     },
     "2025-04-10": {
       "modrinth-mod": 5619
     },
     "2025-04-11": {
-      "modrinth-mod": 5619
+      "modrinth-mod": 5631
     },
     "2025-04-12": {
-      "modrinth-mod": 5619
+      "modrinth-mod": 5644
     },
     "2025-04-13": {
-      "modrinth-mod": 5619
+      "modrinth-mod": 5656
     },
     "2025-04-14": {
-      "modrinth-mod": 5619
+      "modrinth-mod": 5669
     },
     "2025-04-15": {
-      "modrinth-mod": 5619
+      "modrinth-mod": 5681
     },
     "2025-04-16": {
-      "modrinth-mod": 5619
+      "modrinth-mod": 5694
     },
     "2025-04-17": {
-      "modrinth-mod": 5619
+      "modrinth-mod": 5706
     },
     "2025-04-18": {
-      "modrinth-mod": 5619
+      "modrinth-mod": 5719
     },
     "2025-04-19": {
-      "modrinth-mod": 5619
+      "modrinth-mod": 5731
     },
     "2025-04-20": {
-      "modrinth-mod": 5619
+      "modrinth-mod": 5744
     },
     "2025-04-21": {
-      "modrinth-mod": 5619
+      "modrinth-mod": 5756
     },
     "2025-04-22": {
-      "modrinth-mod": 5619
+      "modrinth-mod": 5769
     },
     "2025-04-23": {
-      "modrinth-mod": 5619
+      "modrinth-mod": 5781
     },
     "2025-04-24": {
-      "modrinth-mod": 5619
+      "modrinth-mod": 5794
     },
     "2025-04-25": {
-      "modrinth-mod": 5619
+      "modrinth-mod": 5806
     },
     "2025-04-26": {
-      "modrinth-mod": 5619
+      "modrinth-mod": 5819
     },
     "2025-04-27": {
-      "modrinth-mod": 5619
+      "modrinth-mod": 5831
     },
     "2025-04-28": {
-      "modrinth-mod": 5619
+      "modrinth-mod": 5844
     },
     "2025-04-29": {
-      "modrinth-mod": 5619
+      "modrinth-mod": 5856
     },
     "2025-04-30": {
-      "modrinth-mod": 5619
+      "modrinth-mod": 5869
     },
     "2025-05-01": {
-      "modrinth-mod": 5619
+      "modrinth-mod": 5881
     },
     "2025-05-02": {
-      "modrinth-mod": 5619
+      "modrinth-mod": 5894
     },
     "2025-05-03": {
-      "modrinth-mod": 5619
+      "modrinth-mod": 5906
     },
     "2025-05-04": {
-      "modrinth-mod": 5619
+      "modrinth-mod": 5919
     },
     "2025-05-05": {
-      "modrinth-mod": 5619
+      "modrinth-mod": 5931
     },
     "2025-05-06": {
-      "modrinth-mod": 5619
+      "modrinth-mod": 5944
     },
     "2025-05-07": {
-      "modrinth-mod": 5619
+      "modrinth-mod": 5956
     },
     "2025-05-08": {
       "modrinth-mod": 5969
     },
     "2025-05-09": {
-      "modrinth-mod": 5969
+      "modrinth-mod": 5979
     },
     "2025-05-10": {
-      "modrinth-mod": 5969
+      "modrinth-mod": 5990
     },
     "2025-05-11": {
-      "modrinth-mod": 5969
+      "modrinth-mod": 6000
     },
     "2025-05-12": {
-      "modrinth-mod": 5969
+      "modrinth-mod": 6011
     },
     "2025-05-13": {
-      "modrinth-mod": 5969
+      "modrinth-mod": 6021
     },
     "2025-05-14": {
-      "modrinth-mod": 5969
+      "modrinth-mod": 6032
     },
     "2025-05-15": {
-      "modrinth-mod": 5969
+      "modrinth-mod": 6043
     },
     "2025-05-16": {
-      "modrinth-mod": 5969
+      "modrinth-mod": 6053
     },
     "2025-05-17": {
-      "modrinth-mod": 5969
+      "modrinth-mod": 6064
     },
     "2025-05-18": {
-      "modrinth-mod": 5969
+      "modrinth-mod": 6074
     },
     "2025-05-19": {
-      "modrinth-mod": 5969
+      "modrinth-mod": 6085
     },
     "2025-05-20": {
-      "modrinth-mod": 5969
+      "modrinth-mod": 6095
     },
     "2025-05-21": {
-      "modrinth-mod": 5969
+      "modrinth-mod": 6106
     },
     "2025-05-22": {
-      "modrinth-mod": 5969
+      "modrinth-mod": 6117
     },
     "2025-05-23": {
-      "modrinth-mod": 5969
+      "modrinth-mod": 6127
     },
     "2025-05-24": {
-      "modrinth-mod": 5969
+      "modrinth-mod": 6138
     },
     "2025-05-25": {
-      "modrinth-mod": 5969
+      "modrinth-mod": 6148
     },
     "2025-05-26": {
-      "modrinth-mod": 5969
+      "modrinth-mod": 6159
     },
     "2025-05-27": {
-      "modrinth-mod": 5969
+      "modrinth-mod": 6169
     },
     "2025-05-28": {
-      "modrinth-mod": 5969
+      "modrinth-mod": 6180
     },
     "2025-05-29": {
-      "modrinth-mod": 5969
+      "modrinth-mod": 6191
     },
     "2025-05-30": {
-      "modrinth-mod": 5969
+      "modrinth-mod": 6201
     },
     "2025-05-31": {
-      "modrinth-mod": 5969
+      "modrinth-mod": 6212
     },
     "2025-06-01": {
-      "modrinth-mod": 5969
+      "modrinth-mod": 6222
     },
     "2025-06-02": {
-      "modrinth-mod": 5969
+      "modrinth-mod": 6233
     },
     "2025-06-03": {
-      "modrinth-mod": 5969
+      "modrinth-mod": 6243
     },
     "2025-06-04": {
-      "modrinth-mod": 5969
+      "modrinth-mod": 6254
     },
     "2025-06-05": {
       "modrinth-mod": 6265
     },
     "2025-06-06": {
-      "modrinth-mod": 6265
+      "modrinth-mod": 6276
     },
     "2025-06-07": {
-      "modrinth-mod": 6265
+      "modrinth-mod": 6288
     },
     "2025-06-08": {
-      "modrinth-mod": 6265
+      "modrinth-mod": 6300
     },
     "2025-06-09": {
-      "modrinth-mod": 6265
+      "modrinth-mod": 6312
     },
     "2025-06-10": {
-      "modrinth-mod": 6265
+      "modrinth-mod": 6323
     },
     "2025-06-11": {
-      "modrinth-mod": 6265
+      "modrinth-mod": 6335
     },
     "2025-06-12": {
-      "modrinth-mod": 6265
+      "modrinth-mod": 6347
     },
     "2025-06-13": {
-      "modrinth-mod": 6265
+      "modrinth-mod": 6359
     },
     "2025-06-14": {
-      "modrinth-mod": 6265
+      "modrinth-mod": 6371
     },
     "2025-06-15": {
-      "modrinth-mod": 6265
+      "modrinth-mod": 6382
     },
     "2025-06-16": {
-      "modrinth-mod": 6265
+      "modrinth-mod": 6394
     },
     "2025-06-17": {
-      "modrinth-mod": 6265
+      "modrinth-mod": 6406
     },
     "2025-06-18": {
-      "modrinth-mod": 6265
+      "modrinth-mod": 6418
     },
     "2025-06-19": {
-      "modrinth-mod": 6265
+      "modrinth-mod": 6430
     },
     "2025-06-20": {
-      "modrinth-mod": 6265
+      "modrinth-mod": 6441
     },
     "2025-06-21": {
-      "modrinth-mod": 6265
+      "modrinth-mod": 6453
     },
     "2025-06-22": {
-      "modrinth-mod": 6265
+      "modrinth-mod": 6465
     },
     "2025-06-23": {
-      "modrinth-mod": 6265
+      "modrinth-mod": 6477
     },
     "2025-06-24": {
-      "modrinth-mod": 6265
+      "modrinth-mod": 6488
     },
     "2025-06-25": {
-      "modrinth-mod": 6265
+      "modrinth-mod": 6500
     },
     "2025-06-26": {
-      "modrinth-mod": 6265
+      "modrinth-mod": 6512
     },
     "2025-06-27": {
-      "modrinth-mod": 6265
+      "modrinth-mod": 6524
     },
     "2025-06-28": {
-      "modrinth-mod": 6265
+      "modrinth-mod": 6536
     },
     "2025-06-29": {
-      "modrinth-mod": 6265
+      "modrinth-mod": 6547
     },
     "2025-06-30": {
-      "modrinth-mod": 6265
+      "modrinth-mod": 6559
     },
     "2025-07-01": {
-      "modrinth-mod": 6265
+      "modrinth-mod": 6571
     },
     "2025-07-02": {
-      "modrinth-mod": 6265
+      "modrinth-mod": 6583
     },
     "2025-07-03": {
       "modrinth-mod": 6595
     },
     "2025-07-04": {
-      "modrinth-mod": 6595
+      "modrinth-mod": 6602
     },
     "2025-07-05": {
-      "modrinth-mod": 6595
+      "modrinth-mod": 6609
     },
     "2025-07-06": {
-      "modrinth-mod": 6595
+      "modrinth-mod": 6616
     },
     "2025-07-07": {
-      "modrinth-mod": 6595
+      "modrinth-mod": 6624
     },
     "2025-07-08": {
-      "modrinth-mod": 6595
+      "modrinth-mod": 6631
     },
     "2025-07-09": {
-      "modrinth-mod": 6595
+      "modrinth-mod": 6638
     },
     "2025-07-10": {
-      "modrinth-mod": 6595
+      "modrinth-mod": 6646
     },
     "2025-07-11": {
-      "modrinth-mod": 6595
+      "modrinth-mod": 6653
     },
     "2025-07-12": {
-      "modrinth-mod": 6595
+      "modrinth-mod": 6660
     },
     "2025-07-13": {
-      "modrinth-mod": 6595
+      "modrinth-mod": 6667
     },
     "2025-07-14": {
-      "modrinth-mod": 6595
+      "modrinth-mod": 6675
     },
     "2025-07-15": {
-      "modrinth-mod": 6595
+      "modrinth-mod": 6682
     },
     "2025-07-16": {
-      "modrinth-mod": 6595
+      "modrinth-mod": 6689
     },
     "2025-07-17": {
-      "modrinth-mod": 6595
+      "modrinth-mod": 6697
     },
     "2025-07-18": {
-      "modrinth-mod": 6595
+      "modrinth-mod": 6704
     },
     "2025-07-19": {
-      "modrinth-mod": 6595
+      "modrinth-mod": 6711
     },
     "2025-07-20": {
-      "modrinth-mod": 6595
+      "modrinth-mod": 6718
     },
     "2025-07-21": {
-      "modrinth-mod": 6595
+      "modrinth-mod": 6726
     },
     "2025-07-22": {
-      "modrinth-mod": 6595
+      "modrinth-mod": 6733
     },
     "2025-07-23": {
-      "modrinth-mod": 6595
+      "modrinth-mod": 6740
     },
     "2025-07-24": {
-      "modrinth-mod": 6595
+      "modrinth-mod": 6748
     },
     "2025-07-25": {
-      "modrinth-mod": 6595
+      "modrinth-mod": 6755
     },
     "2025-07-26": {
-      "modrinth-mod": 6595
+      "modrinth-mod": 6762
     },
     "2025-07-27": {
-      "modrinth-mod": 6595
+      "modrinth-mod": 6769
     },
     "2025-07-28": {
-      "modrinth-mod": 6595
+      "modrinth-mod": 6777
     },
     "2025-07-29": {
-      "modrinth-mod": 6595
+      "modrinth-mod": 6784
     },
     "2025-07-30": {
-      "modrinth-mod": 6595
+      "modrinth-mod": 6791
     },
     "2025-07-31": {
       "modrinth-mod": 6799
