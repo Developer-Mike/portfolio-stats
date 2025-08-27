@@ -2348,10 +2348,13 @@
     },
     "2025-08-26": {
       "modrinth-mod": 6882
+    },
+    "2025-08-27": {
+      "modrinth-mod": 6898
     }
   },
   "per-service-total": {
-    "modrinth-mod": 6882
+    "modrinth-mod": 6898
   },
-  "total": 6882
+  "total": 6898
 }
