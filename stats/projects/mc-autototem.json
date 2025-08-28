@@ -2855,10 +2855,13 @@
     },
     "2025-08-27": {
       "modrinth-mod": 349195
+    },
+    "2025-08-28": {
+      "modrinth-mod": 349734
     }
   },
   "per-service-total": {
-    "modrinth-mod": 349195
+    "modrinth-mod": 349734
   },
-  "total": 349195
+  "total": 349734
 }
