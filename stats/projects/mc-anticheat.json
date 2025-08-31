@@ -2444,10 +2444,13 @@
     },
     "2025-08-30": {
       "modrinth-mod": 3476
+    },
+    "2025-08-31": {
+      "modrinth-mod": 3482
     }
   },
   "per-service-total": {
-    "modrinth-mod": 3476
+    "modrinth-mod": 3482
   },
-  "total": 3476
+  "total": 3482
 }
