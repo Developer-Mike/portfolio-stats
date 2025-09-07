@@ -1,33 +1,33 @@
 {
   "fn-track": {
     "per-service-total": {
-      "play-store-app": 479645
+      "play-store-app": 479705
     },
-    "total": 479645
+    "total": 479705
   },
   "mc-anticheat": {
     "per-service-total": {
-      "modrinth-mod": 3504
+      "modrinth-mod": 3507
     },
-    "total": 3504
+    "total": 3507
   },
   "mc-autototem": {
     "per-service-total": {
-      "modrinth-mod": 354737
+      "modrinth-mod": 355437
     },
-    "total": 354737
+    "total": 355437
   },
   "mc-clear-enchanting": {
     "per-service-total": {
-      "modrinth-mod": 6767
+      "modrinth-mod": 6769
     },
-    "total": 6767
+    "total": 6769
   },
   "mc-torch": {
     "per-service-total": {
-      "modrinth-mod": 6982
+      "modrinth-mod": 6989
     },
-    "total": 6982
+    "total": 6989
   },
   "obsidian-advanced-canvas": {
     "per-service-total": {
