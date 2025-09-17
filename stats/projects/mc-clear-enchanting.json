@@ -2495,10 +2495,13 @@
     },
     "2025-09-16": {
       "modrinth-mod": 6799
+    },
+    "2025-09-17": {
+      "modrinth-mod": 6802
     }
   },
   "per-service-total": {
-    "modrinth-mod": 6799
+    "modrinth-mod": 6802
   },
-  "total": 6799
+  "total": 6802
 }
