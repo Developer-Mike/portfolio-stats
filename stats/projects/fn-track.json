@@ -4934,10 +4934,13 @@
     },
     "2025-09-29": {
       "play-store-app": 482192
+    },
+    "2025-09-30": {
+      "play-store-app": 482299
     }
   },
   "per-service-total": {
-    "play-store-app": 482192
+    "play-store-app": 482299
   },
-  "total": 482192
+  "total": 482299
 }
