@@ -4967,10 +4967,13 @@
     },
     "2025-10-10": {
       "play-store-app": 483362
+    },
+    "2025-10-11": {
+      "play-store-app": 483659
     }
   },
   "per-service-total": {
-    "play-store-app": 483362
+    "play-store-app": 483659
   },
-  "total": 483362
+  "total": 483659
 }
