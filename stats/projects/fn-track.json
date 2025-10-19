@@ -4991,10 +4991,13 @@
     },
     "2025-10-18": {
       "play-store-app": 484835
+    },
+    "2025-10-19": {
+      "play-store-app": 484993
     }
   },
   "per-service-total": {
-    "play-store-app": 484835
+    "play-store-app": 484993
   },
-  "total": 484835
+  "total": 484993
 }
