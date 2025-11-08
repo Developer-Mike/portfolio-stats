@@ -2567,10 +2567,13 @@
     },
     "2025-11-07": {
       "modrinth-mod": 7681
+    },
+    "2025-11-08": {
+      "modrinth-mod": 7696
     }
   },
   "per-service-total": {
-    "modrinth-mod": 7681
+    "modrinth-mod": 7696
   },
-  "total": 7681
+  "total": 7696
 }
