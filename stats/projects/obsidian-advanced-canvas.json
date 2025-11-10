@@ -1856,10 +1856,13 @@
     },
     "2025-11-09": {
       "obsidian-plugin": 379164
+    },
+    "2025-11-10": {
+      "obsidian-plugin": 380806
     }
   },
   "per-service-total": {
-    "obsidian-plugin": 379164
+    "obsidian-plugin": 380806
   },
-  "total": 379164
+  "total": 380806
 }
