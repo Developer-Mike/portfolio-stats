@@ -818,10 +818,13 @@
     },
     "2025-11-11": {
       "play-store-app": 84
+    },
+    "2025-11-12": {
+      "play-store-app": 85
     }
   },
   "per-service-total": {
-    "play-store-app": 84
+    "play-store-app": 85
   },
-  "total": 84
+  "total": 85
 }
