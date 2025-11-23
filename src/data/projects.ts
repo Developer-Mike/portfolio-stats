@@ -40,7 +40,7 @@ const projects: {
     },
     {
       service: "curseforge-mod",
-      fetchId: "autototem"
+      fetchId: "1328339"
     }
   ],
   "mc-clear-enchanting": [
