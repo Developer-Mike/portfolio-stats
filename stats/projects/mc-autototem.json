@@ -3118,11 +3118,13 @@
       "modrinth-mod": 398861
     },
     "2025-11-23": {
-      "modrinth-mod": 399965
+      "curseforge-mod": 5211,
+      "modrinth-mod": 400328
     }
   },
   "per-service-total": {
-    "modrinth-mod": 399965
+    "curseforge-mod": 5211,
+    "modrinth-mod": 400328
   },
-  "total": 399965
+  "total": 405539
 }
