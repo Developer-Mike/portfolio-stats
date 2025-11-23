@@ -4,6 +4,7 @@ const serviceFetchMappings: ServiceFetchMappings = {
   "play-store-app": fetchPlayStoreAppData,
   "obsidian-plugin": fetchObsidianPluginData,
   "modrinth-mod": fetchModrinthModData,
+  "curseforge-mod": fetchCurseforgeModData,
 }
 
 async function fetchPlayStoreAppData(id: string): Promise<number> {
@@ -32,6 +33,18 @@ async function fetchModrinthModData(id: string): Promise<number> {
   const json = await response.json()
 
   const downloads = json.downloads
+  return downloads
+}
+
+async function fetchCurseforgeModData(id: string): Promise<number> {
+  const response = await fetch(`https://www.curseforge.com/minecraft/mc-mods/${id}`)
+  const json = await response.text()
+
+  // <dt><span>Downloads</span></dt><dd>5,211</dd>
+  const downloadsString = json.match(/<dt><span>Downloads<\/span><\/dt><dd>([\d,]+)<\/dd>/)?.[1]
+  if (!downloadsString) return 0
+
+  const downloads = parseInt(downloadsString.replaceAll(",", ""))
   return downloads
 }
 

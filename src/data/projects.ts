@@ -1,6 +1,6 @@
 import { Project } from "../@types/projects"
 
-const projects: { 
+const projects: {
   [projectId: string]: Project[]
 } = {
   "fn-track": [
@@ -36,6 +36,10 @@ const projects: {
   "mc-autototem": [
     {
       service: "modrinth-mod",
+      fetchId: "autototem"
+    },
+    {
+      service: "curseforge-mod",
       fetchId: "autototem"
     }
   ],
