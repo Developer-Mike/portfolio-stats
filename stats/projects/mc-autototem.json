@@ -3144,11 +3144,15 @@
     "2025-11-29": {
       "curseforge-mod": 5695,
       "modrinth-mod": 404910
+    },
+    "2025-11-30": {
+      "curseforge-mod": 5787,
+      "modrinth-mod": 405974
     }
   },
   "per-service-total": {
-    "curseforge-mod": 5695,
-    "modrinth-mod": 404910
+    "curseforge-mod": 5787,
+    "modrinth-mod": 405974
   },
-  "total": 410605
+  "total": 411761
 }
