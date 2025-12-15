@@ -1,10 +1,30 @@
 import { ServiceFetchMappings } from "./@types/services"
 
 const serviceFetchMappings: ServiceFetchMappings = {
+  "github-release": fetchGithubReleaseData,
   "play-store-app": fetchPlayStoreAppData,
   "obsidian-plugin": fetchObsidianPluginData,
   "modrinth-mod": fetchModrinthModData,
   "curseforge-mod": fetchCurseforgeModData,
+}
+
+async function fetchGithubReleaseData(id: string): Promise<number> {
+  const [owner, repo, assetPattern] = id.split("/")
+  const assetRegex = new RegExp(assetPattern)
+
+  const response = await fetch(`https://api.github.com/repos/${owner}/${repo}/releases`)
+  const json = await response.json()
+
+  let totalDownloads = 0
+  for (const release of json) {
+    for (const asset of release.assets) {
+      if (!assetRegex.test(asset.name)) continue
+
+      totalDownloads += asset.download_count
+    }
+  }
+
+  return totalDownloads
 }
 
 async function fetchPlayStoreAppData(id: string): Promise<number> {

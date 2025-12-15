@@ -3,6 +3,12 @@ import { Project } from "../@types/projects"
 const projects: {
   [projectId: string]: Project[]
 } = {
+  "starlight-pdf": [
+    {
+      service: "github-release",
+      fetchId: "Developer-Mike/starlight-pdf-public/main.js"
+    }
+  ],
   "fn-track": [
     {
       service: "play-store-app",
