@@ -4,23 +4,19 @@ module.exports = {
   mode: "production",
   entry: "./src/main.ts",
   target: "node",
-  experiments: {
-    outputModule: true,
+  externals: {
+    "skia-canvas": "commonjs skia-canvas"
   },
   output: {
     path: path.resolve(__dirname, 'dist'),
     filename: "main.js",
-    library: {
-      type: "module"
-    },
-    module: true,
   },
   resolve: {
     extensions: [".ts", ".js"],
   },
   module: {
     rules: [
-      { 
+      {
         test: /\.ts$/,
         loader: "ts-loader"
       }
