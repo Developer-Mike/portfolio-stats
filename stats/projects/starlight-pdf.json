@@ -32,10 +32,13 @@
     },
     "2025-12-25": {
       "github-release": 132
+    },
+    "2025-12-26": {
+      "github-release": 136
     }
   },
   "per-service-total": {
-    "github-release": 132
+    "github-release": 136
   },
-  "total": 132
+  "total": 136
 }
