@@ -1,22 +1,22 @@
 {
   "fn-track": {
     "per-service-total": {
-      "play-store-app": 529959
+      "play-store-app": 497398
     },
-    "total": 529959
+    "total": 497398
   },
   "mc-anticheat": {
     "per-service-total": {
-      "modrinth-mod": 4320
+      "modrinth-mod": 4322
     },
-    "total": 4320
+    "total": 4322
   },
   "mc-autototem": {
     "per-service-total": {
       "curseforge-mod": 11052,
-      "modrinth-mod": 448271
+      "modrinth-mod": 448382
     },
-    "total": 459323
+    "total": 459434
   },
   "mc-clear-enchanting": {
     "per-service-total": {
@@ -26,9 +26,9 @@
   },
   "mc-torch": {
     "per-service-total": {
-      "modrinth-mod": 8695
+      "modrinth-mod": 8696
     },
-    "total": 8695
+    "total": 8696
   },
   "obsidian-advanced-canvas": {
     "per-service-total": {
