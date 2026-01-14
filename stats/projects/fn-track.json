@@ -5252,10 +5252,13 @@
     },
     "2026-01-13": {
       "play-store-app": 497398
+    },
+    "2026-01-14": {
+      "play-store-app": 497503
     }
   },
   "per-service-total": {
-    "play-store-app": 497398
+    "play-store-app": 497503
   },
-  "total": 497398
+  "total": 497503
 }
