@@ -3364,11 +3364,15 @@
     "2026-01-23": {
       "curseforge-mod": 13989,
       "modrinth-mod": 458381
+    },
+    "2026-01-24": {
+      "curseforge-mod": 14301,
+      "modrinth-mod": 459456
     }
   },
   "per-service-total": {
-    "curseforge-mod": 13989,
-    "modrinth-mod": 458381
+    "curseforge-mod": 14301,
+    "modrinth-mod": 459456
   },
-  "total": 472370
+  "total": 473757
 }
