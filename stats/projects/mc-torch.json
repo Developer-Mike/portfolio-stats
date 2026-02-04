@@ -2831,10 +2831,13 @@
     },
     "2026-02-03": {
       "modrinth-mod": 9086
+    },
+    "2026-02-04": {
+      "modrinth-mod": 9111
     }
   },
   "per-service-total": {
-    "modrinth-mod": 9086
+    "modrinth-mod": 9111
   },
-  "total": 9086
+  "total": 9111
 }
