@@ -5324,10 +5324,13 @@
     },
     "2026-02-06": {
       "play-store-app": 499698
+    },
+    "2026-02-07": {
+      "play-store-app": 499846
     }
   },
   "per-service-total": {
-    "play-store-app": 499698
+    "play-store-app": 499846
   },
-  "total": 499698
+  "total": 499846
 }
