@@ -5327,10 +5327,13 @@
     },
     "2026-02-07": {
       "play-store-app": 499846
+    },
+    "2026-02-08": {
+      "play-store-app": 500019
     }
   },
   "per-service-total": {
-    "play-store-app": 499846
+    "play-store-app": 500019
   },
-  "total": 499846
+  "total": 500019
 }
