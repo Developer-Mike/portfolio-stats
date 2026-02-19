@@ -3468,11 +3468,15 @@
     "2026-02-18": {
       "curseforge-mod": 22075,
       "modrinth-mod": 486645
+    },
+    "2026-02-19": {
+      "curseforge-mod": 22342,
+      "modrinth-mod": 487676
     }
   },
   "per-service-total": {
-    "curseforge-mod": 22075,
-    "modrinth-mod": 486645
+    "curseforge-mod": 22342,
+    "modrinth-mod": 487676
   },
-  "total": 508720
+  "total": 510018
 }
