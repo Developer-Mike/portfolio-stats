@@ -2600,10 +2600,13 @@
     },
     "2026-02-19": {
       "obsidian-plugin": 8079
+    },
+    "2026-02-20": {
+      "obsidian-plugin": 8083
     }
   },
   "per-service-total": {
-    "obsidian-plugin": 8079
+    "obsidian-plugin": 8083
   },
-  "total": 8079
+  "total": 8083
 }
