@@ -2966,10 +2966,13 @@
     },
     "2026-02-20": {
       "modrinth-mod": 4566
+    },
+    "2026-02-21": {
+      "modrinth-mod": 4568
     }
   },
   "per-service-total": {
-    "modrinth-mod": 4566
+    "modrinth-mod": 4568
   },
-  "total": 4566
+  "total": 4568
 }
