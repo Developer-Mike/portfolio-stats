@@ -5417,10 +5417,13 @@
     },
     "2026-03-09": {
       "play-store-app": 502710
+    },
+    "2026-03-10": {
+      "play-store-app": 502876
     }
   },
   "per-service-total": {
-    "play-store-app": 502710
+    "play-store-app": 502876
   },
-  "total": 502710
+  "total": 502876
 }
