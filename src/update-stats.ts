@@ -14,6 +14,7 @@ async function getDownloadsToday(): Promise<{ [projectId: string]: { [service: s
   const fetchPromises: Promise<number>[] = []
   for (const projectId in projects) {
     const project = projects[projectId]
+    downloadsToday[projectId] = {}
 
     for (const source of project.sources) {
       const fetchFunction = serviceFetchMappings[source.service]
@@ -26,10 +27,6 @@ async function getDownloadsToday(): Promise<{ [projectId: string]: { [service: s
       fetchPromises.push(fetchPromise)
 
       fetchPromise.then(downloads => {
-        if (!downloadsToday[projectId]) {
-          downloadsToday[projectId] = {}
-        }
-
         downloadsToday[projectId][source.service] = downloads
       })
     }
@@ -43,10 +40,20 @@ export default async function updateStats() {
   const downloadsToday = await getDownloadsToday()
 
   const TOTAL_STATS_FILEPATH = "stats/total.json"
+  const previousTotalStats = JSON.parse(await fs.readFile(TOTAL_STATS_FILEPATH, "utf-8").catch(() => "{}")) as TotalStatsFile
   const totalStatsJson: TotalStatsFile = {}
 
   for (const projectId in downloadsToday) {
     const projectDownloads = downloadsToday[projectId]
+
+    if (Object.keys(projectDownloads).length === 0) {
+      console.warn(`No downloads found for project: ${projectId}`)
+
+      if (previousTotalStats[projectId])
+        totalStatsJson[projectId] = previousTotalStats[projectId]
+
+      continue
+    }
 
     totalStatsJson[projectId] = {
       total: Object.values(projectDownloads).reduce((a, b) => a + b, 0),
@@ -55,15 +62,15 @@ export default async function updateStats() {
   }
   await fs.writeFile(TOTAL_STATS_FILEPATH, JSONSS(totalStatsJson, { space: 2 }) ?? "{}")
 
-
   // Save the data to the stats/projects/{projectId}.json files
   const date = new Date().toISOString().split("T")[0]
   for (const projectId in downloadsToday) {
-    const projectDownloads = downloadsToday[projectId]
+    let projectDownloads = downloadsToday[projectId]
+    if (Object.keys(projectDownloads).length === 0)
+      projectDownloads = previousTotalStats[projectId]?.["per-service-total"] ?? {}
 
     const PROJECT_STATS_FILEPATH = `stats/projects/${projectId}.json`
-    const previousStatsString = await fs.readFile(PROJECT_STATS_FILEPATH, "utf-8").catch(() => "{}")
-    const projectStatsJson = JSON.parse(previousStatsString) as ProjectStatsFile
+    const projectStatsJson = JSON.parse(await fs.readFile(PROJECT_STATS_FILEPATH, "utf-8").catch(() => "{}")) as ProjectStatsFile
 
     // Initialize the keys if they don't exist
     projectStatsJson.total ??= 0

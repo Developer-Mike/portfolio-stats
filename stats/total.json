@@ -1,9 +1,9 @@
 {
   "fn-track": {
     "per-service-total": {
-      "play-store-app": 502882
+      "play-store-app": 587559
     },
-    "total": 502882
+    "total": 587559
   },
   "mc-anticheat": {
     "per-service-total": {
@@ -26,9 +26,9 @@
   },
   "mc-torch": {
     "per-service-total": {
-      "modrinth-mod": 9747
+      "modrinth-mod": 9748
     },
-    "total": 9747
+    "total": 9748
   },
   "obsidian-advanced-canvas": {
     "per-service-total": {

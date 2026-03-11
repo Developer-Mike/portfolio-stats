@@ -20,12 +20,7 @@ const projects: {
   "fn-track": {
     label: "FN Track",
     color: "#9D4DBB",
-    sources: [
-      {
-        service: "play-store-app",
-        fetchId: "com.mike.standartstats"
-      }
-    ]
+    sources: [ ]
   },
   "what": {
     label: "What?",
