@@ -3,7 +3,7 @@ import "chartjs-adapter-luxon"
 import fs from "fs/promises"
 import projects from "./data/projects"
 import { ProjectStatsFile } from "./@types/exports"
-import { CategoryScale, Chart, LinearScale, LineController, LineElement, PointElement, TimeScale } from 'chart.js'
+import { CategoryScale, Chart, LinearScale, LineController, LineElement, PointElement, TimeScale, Legend } from 'chart.js'
 import { Canvas } from "skia-canvas"
 
 export default async function generateDownloadChart() {
@@ -45,7 +45,7 @@ export default async function generateDownloadChart() {
   }
 
   // Create a line chart using Chart.js
-  Chart.register([CategoryScale, LineController, LineElement, LinearScale, PointElement, TimeScale])
+  Chart.register([CategoryScale, LineController, LineElement, LinearScale, PointElement, TimeScale, Legend])
   const canvas = new Canvas(800, 600)
   const chart = new Chart(canvas as any,
     {
@@ -57,6 +57,13 @@ export default async function generateDownloadChart() {
             time: { unit: "month" }
           }
         },
+        plugins: {
+          legend: {
+            display: true,
+            position: "top",
+            align: "start"
+          }
+        }
       },
       data: {
         datasets: datasets.map(ds => ({
