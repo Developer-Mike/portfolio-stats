@@ -1382,10 +1382,13 @@
     },
     "2026-05-18": {
       "play-store-app": 97
+    },
+    "2026-05-19": {
+      "play-store-app": 98
     }
   },
   "per-service-total": {
-    "play-store-app": 97
+    "play-store-app": 98
   },
-  "total": 97
+  "total": 98
 }
