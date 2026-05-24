@@ -4,8 +4,11 @@ import { ProjectStatsFile } from "./@types/exports"
 
 const CELL_SIZE = 12
 const CELL_PADDING = 2
-const SVG_WIDTH = 53 * (CELL_SIZE + CELL_PADDING) + CELL_PADDING
-const SVG_HEIGHT = 7 * (CELL_SIZE + CELL_PADDING) + CELL_PADDING
+const WEEK_ROWS = 7
+const WEEK_COLS = 53
+const SVG_WIDTH = WEEK_COLS * (CELL_SIZE + CELL_PADDING) + CELL_PADDING
+const GRID_HEIGHT = WEEK_ROWS * (CELL_SIZE + CELL_PADDING) + CELL_PADDING
+const YEAR_LABEL_HEIGHT = 16
 
 const COLORS = new Map<number, string>([
   [0.0, "#2A313C"],
@@ -95,43 +98,63 @@ function getColorForDownloads(downloads: number, maxDownloads: number): string {
   return interpolateColor(COLORS, ratio)
 }
 
+function daysInYear(year: number): number {
+  const isLeap = (year % 4 === 0 && year % 100 !== 0) || year % 400 === 0
+  return isLeap ? 366 : 365
+}
+
 export default async function generateDailyDownloadGrid() {
-  const dailyTotalDownloads: number[] = Array(366).fill(0) // +1 to measure diff
-  const startDate = new Date().setDate(new Date().getDate() - 366) // +1 to measure diff
+  const allDates = new Set<string>()
+  const cumulativeByDate: Map<string, number> = new Map()
 
-  // For each project, fetch the download data of the last year
   for (const projectId in projects) {
-    const PROJECT_STATS_FILEPATH = `stats/projects/${projectId}.json`
-    const projectStatsJsonString = await fs.readFile(PROJECT_STATS_FILEPATH, "utf-8").catch(() => "{}")
-
-    const dailyProjectStats = (JSON.parse(projectStatsJsonString) as ProjectStatsFile).daily
+    const filepath = `stats/projects/${projectId}.json`
+    const raw = await fs.readFile(filepath, "utf-8").catch(() => "{}")
+    const dailyProjectStats = (JSON.parse(raw) as ProjectStatsFile).daily
     if (!dailyProjectStats) continue
 
-    for (let i = 0; i < 365; i++) {
-      const date = new Date(startDate + i * 24 * 60 * 60 * 1000).toISOString().split("T")[0]
-      dailyTotalDownloads[i] += Object.values(dailyProjectStats[date] ?? {}).reduce((a, b) => a + b, 0)
+    for (const date in dailyProjectStats) {
+      allDates.add(date)
+      const total = Object.values(dailyProjectStats[date] ?? {}).reduce((a, b) => a + b, 0)
+      cumulativeByDate.set(date, (cumulativeByDate.get(date) ?? 0) + total)
     }
   }
 
-  const dailyDownloads: number[] = []
-  for (let i = 1; i < dailyTotalDownloads.length; i++)
-    dailyDownloads.push(dailyTotalDownloads[i] - dailyTotalDownloads[i - 1])
+  const sortedDates = [...allDates].sort()
+  const dailyDeltas: { date: string; downloads: number }[] = []
 
-  // Generate SVG
-  const maxDownloads = Math.max(...dailyDownloads)
-  const gridDayOffset = new Date(startDate).getDay()
+  let prevTotal = 0
+  for (const date of sortedDates) {
+    const total = cumulativeByDate.get(date) ?? 0
+    dailyDeltas.push({ date, downloads: total - prevTotal })
+    prevTotal = total
+  }
 
-  let svgContent = `<svg width="${SVG_WIDTH}" height="${SVG_HEIGHT}" xmlns="http://www.w3.org/2000/svg">\n`
-  for (let week = 0; week < 53; week++) {
-    for (let day = 0; day < 7; day++) {
-      const dayIndex = week * 7 + day - gridDayOffset
-      if (dayIndex < 0 || dayIndex >= dailyDownloads.length) continue
+  const years = [...new Set(dailyDeltas.map(d => d.date.split("-")[0]))].sort()
+  const totalHeight = years.length * (YEAR_LABEL_HEIGHT + GRID_HEIGHT)
 
-      const downloads = dailyDownloads[dayIndex]
-      const color = getColorForDownloads(downloads, maxDownloads)
+  let svgContent = `<svg width="${SVG_WIDTH}" height="${totalHeight}" xmlns="http://www.w3.org/2000/svg">\n`
+
+  for (let yi = 0; yi < years.length; yi++) {
+    const year = years[yi]
+    const yearData = dailyDeltas.filter(d => d.date.startsWith(year))
+    const yearOffset = yi * (YEAR_LABEL_HEIGHT + GRID_HEIGHT)
+    const startOfYear = new Date(`${year}-01-01`).getDay()
+    const maxDownloads = Math.max(...yearData.map(d => d.downloads), 1)
+
+    svgContent += `  <text x="${CELL_PADDING}" y="${yearOffset + 12}" font-size="12" fill="#ffffff" font-family="sans-serif">${year}</text>\n`
+
+    for (const entry of yearData) {
+      const dateObj = new Date(entry.date)
+      const dayOfYear = Math.floor((dateObj.getTime() - new Date(+year, 0, 0).getTime()) / 86400000)
+      const week = Math.floor((dayOfYear + startOfYear) / 7)
+      const day = (dayOfYear + startOfYear) % 7
+
+      if (week >= WEEK_COLS) continue
 
       const x = week * (CELL_SIZE + CELL_PADDING) + CELL_PADDING
-      const y = day * (CELL_SIZE + CELL_PADDING) + CELL_PADDING
+      const y = yearOffset + YEAR_LABEL_HEIGHT + day * (CELL_SIZE + CELL_PADDING) + CELL_PADDING
+      const color = getColorForDownloads(entry.downloads, maxDownloads)
 
       svgContent += `  <rect x="${x}" y="${y}" width="${CELL_SIZE}" height="${CELL_SIZE}" rx="2" fill="${color}" />\n`
     }
@@ -139,9 +162,6 @@ export default async function generateDailyDownloadGrid() {
 
   svgContent += `</svg>`
 
-  // Save SVG to file
   await fs.writeFile("stats/download-grid.svg", svgContent)
-
-  // Log a success message
   console.log("Download grid SVG generated.")
 }
