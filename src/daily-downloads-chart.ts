@@ -70,7 +70,7 @@ export default async function generateDailyDownloadsChart() {
 
   datasets.push({
     label: "Total",
-    borderColor: "#ffffff",
+    borderColor: "#000000",
     data: combinedData,
   })
 
