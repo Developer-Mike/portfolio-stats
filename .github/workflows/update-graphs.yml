@@ -1,12 +1,13 @@
-name: Daily Stats Update
+name: Update Graphs
 
 on:
-  schedule:
-    - cron: '0 1 * * *' # Every day at 01:00
+  push:
+    paths-ignore:
+      - 'stats/**'
   workflow_dispatch:
 
 jobs:
-  update-stats-and-push:
+  update-graphs-and-push:
     runs-on: ubuntu-latest
 
     permissions:
@@ -24,11 +25,11 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Fetch stats and generate graphs
-        run: npm run stats
+      - name: Generate graphs from existing stats
+        run: npm run graphs
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Daily stats update"
+          commit_message: "Update stat graphs"
           commit_author: GitHub Actions <actions@github.com>

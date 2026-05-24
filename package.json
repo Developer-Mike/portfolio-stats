@@ -4,7 +4,8 @@
   "description": "Fetch and save project stats daily and save them in a GitHub repository.",
   "main": "src/main.js",
   "scripts": {
-    "dev": "npm run build && npm run start",
+    "stats": "npm run build && node dist/main.js",
+    "graphs": "npm run build && node dist/graphs.js",
     "build": "webpack",
     "start": "node dist/main.js"
   },
