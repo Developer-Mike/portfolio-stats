@@ -93,14 +93,9 @@ export function interpolateColor(
   return entries[0][1]
 }
 
-function getColorForDownloads(downloads: number, maxDownloads: number): string {
+function getOpacity(downloads: number, maxDownloads: number): number {
   const ratio = maxDownloads === 0 ? 0 : downloads / maxDownloads
-  return interpolateColor(COLORS, ratio)
-}
-
-function daysInYear(year: number): number {
-  const isLeap = (year % 4 === 0 && year % 100 !== 0) || year % 400 === 0
-  return isLeap ? 366 : 365
+  return 0.05 + ratio * 0.95
 }
 
 export default async function generateDailyDownloadGrid() {
@@ -142,7 +137,7 @@ export default async function generateDailyDownloadGrid() {
     const startOfYear = new Date(`${year}-01-01`).getDay()
     const maxDownloads = Math.max(...yearData.map(d => d.downloads), 1)
 
-    svgContent += `  <text x="${CELL_PADDING}" y="${yearOffset + 12}" font-size="12" fill="#ffffff" font-family="sans-serif">${year}</text>\n`
+    svgContent += `  <text x="${CELL_PADDING}" y="${yearOffset + 12}" font-size="12" fill="#000000" font-family="sans-serif">${year}</text>\n`
 
     for (const entry of yearData) {
       const dateObj = new Date(entry.date)
@@ -154,9 +149,9 @@ export default async function generateDailyDownloadGrid() {
 
       const x = week * (CELL_SIZE + CELL_PADDING) + CELL_PADDING
       const y = yearOffset + YEAR_LABEL_HEIGHT + day * (CELL_SIZE + CELL_PADDING) + CELL_PADDING
-      const color = getColorForDownloads(entry.downloads, maxDownloads)
+      const opacity = getOpacity(entry.downloads, maxDownloads)
 
-      svgContent += `  <rect x="${x}" y="${y}" width="${CELL_SIZE}" height="${CELL_SIZE}" rx="2" fill="${color}" />\n`
+      svgContent += `  <rect x="${x}" y="${y}" width="${CELL_SIZE}" height="${CELL_SIZE}" rx="2" fill="#2B6A30" fill-opacity="${opacity}" />\n`
     }
   }
 
