@@ -2444,10 +2444,13 @@
     },
     "2026-05-24": {
       "obsidian-plugin": 572335
+    },
+    "2026-05-25": {
+      "obsidian-plugin": 574093
     }
   },
   "per-service-total": {
-    "obsidian-plugin": 572335
+    "obsidian-plugin": 574093
   },
-  "total": 572335
+  "total": 574093
 }
