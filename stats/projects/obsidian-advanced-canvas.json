@@ -2525,10 +2525,13 @@
     },
     "2026-06-20": {
       "obsidian-plugin": 617421
+    },
+    "2026-06-21": {
+      "obsidian-plugin": 619087
     }
   },
   "per-service-total": {
-    "obsidian-plugin": 617421
+    "obsidian-plugin": 619087
   },
-  "total": 617421
+  "total": 619087
 }
