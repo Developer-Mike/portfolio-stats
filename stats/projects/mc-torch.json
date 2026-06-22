@@ -3245,10 +3245,13 @@
     },
     "2026-06-21": {
       "modrinth-mod": 10508
+    },
+    "2026-06-22": {
+      "modrinth-mod": 10515
     }
   },
   "per-service-total": {
-    "modrinth-mod": 10508
+    "modrinth-mod": 10515
   },
-  "total": 10508
+  "total": 10515
 }
