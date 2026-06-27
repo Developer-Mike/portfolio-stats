@@ -581,10 +581,13 @@
     },
     "2026-06-26": {
       "github-release": 488
+    },
+    "2026-06-27": {
+      "github-release": 494
     }
   },
   "per-service-total": {
-    "github-release": 488
+    "github-release": 494
   },
-  "total": 488
+  "total": 494
 }
