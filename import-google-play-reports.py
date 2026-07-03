@@ -2,7 +2,6 @@
 # Export report from Statistics > Export Report and name it google-play-reports/<project-name>.csv
 import os
 import json
-import csv
 import shutil
 from datetime import datetime
 
