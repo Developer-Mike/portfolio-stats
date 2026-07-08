@@ -4094,11 +4094,15 @@
     "2026-07-07": {
       "curseforge-mod": 76429,
       "modrinth-mod": 638597
+    },
+    "2026-07-08": {
+      "curseforge-mod": 76912,
+      "modrinth-mod": 640024
     }
   },
   "per-service-total": {
-    "curseforge-mod": 76429,
-    "modrinth-mod": 638597
+    "curseforge-mod": 76912,
+    "modrinth-mod": 640024
   },
-  "total": 715026
+  "total": 716936
 }
