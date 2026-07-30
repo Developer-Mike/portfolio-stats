@@ -3359,10 +3359,13 @@
     },
     "2026-07-29": {
       "modrinth-mod": 10779
+    },
+    "2026-07-30": {
+      "modrinth-mod": 10790
     }
   },
   "per-service-total": {
-    "modrinth-mod": 10779
+    "modrinth-mod": 10790
   },
-  "total": 10779
+  "total": 10790
 }
