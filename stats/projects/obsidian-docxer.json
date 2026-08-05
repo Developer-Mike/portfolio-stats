@@ -2366,10 +2366,13 @@
     },
     "2026-08-04": {
       "obsidian-plugin": 96206
+    },
+    "2026-08-05": {
+      "obsidian-plugin": 96524
     }
   },
   "per-service-total": {
-    "obsidian-plugin": 96206
+    "obsidian-plugin": 96524
   },
-  "total": 96206
+  "total": 96524
 }
