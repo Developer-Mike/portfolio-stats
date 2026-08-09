@@ -4222,11 +4222,15 @@
     "2026-08-08": {
       "curseforge-mod": 94239,
       "modrinth-mod": 681455
+    },
+    "2026-08-09": {
+      "curseforge-mod": 94936,
+      "modrinth-mod": 682966
     }
   },
   "per-service-total": {
-    "curseforge-mod": 94239,
-    "modrinth-mod": 681455
+    "curseforge-mod": 94936,
+    "modrinth-mod": 682966
   },
-  "total": 775694
+  "total": 777902
 }

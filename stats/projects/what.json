@@ -1628,10 +1628,13 @@
     },
     "2026-08-08": {
       "play-store-app": 101
+    },
+    "2026-08-09": {
+      "play-store-app": 102
     }
   },
   "per-service-total": {
-    "play-store-app": 101
+    "play-store-app": 102
   },
-  "total": 101
+  "total": 102
 }
