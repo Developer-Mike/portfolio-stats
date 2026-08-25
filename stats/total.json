@@ -7,52 +7,52 @@
   },
   "mc-anticheat": {
     "per-service-total": {
-      "modrinth-mod": 6597
+      "modrinth-mod": 6612
     },
-    "total": 6597
+    "total": 6612
   },
   "mc-autototem": {
     "per-service-total": {
-      "curseforge-mod": 104390,
-      "modrinth-mod": 704704
+      "curseforge-mod": 105120,
+      "modrinth-mod": 706083
     },
-    "total": 809094
+    "total": 811203
   },
   "mc-clear-enchanting": {
     "per-service-total": {
-      "modrinth-mod": 7978
+      "modrinth-mod": 7987
     },
-    "total": 7978
+    "total": 7987
   },
   "mc-torch": {
     "per-service-total": {
-      "modrinth-mod": 10953
+      "modrinth-mod": 10958
     },
-    "total": 10953
+    "total": 10958
   },
   "obsidian-advanced-canvas": {
     "per-service-total": {
-      "obsidian-plugin": 760547
+      "obsidian-plugin": 765224
     },
-    "total": 760547
+    "total": 765224
   },
   "obsidian-calctex": {
     "per-service-total": {
-      "obsidian-plugin": 9617
+      "obsidian-plugin": 9633
     },
-    "total": 9617
+    "total": 9633
   },
   "obsidian-docxer": {
     "per-service-total": {
-      "obsidian-plugin": 104569
+      "obsidian-plugin": 105222
     },
-    "total": 104569
+    "total": 105222
   },
   "starlight-pdf": {
     "per-service-total": {
-      "github-release": 532
+      "github-release": 534
     },
-    "total": 532
+    "total": 534
   },
   "what": {
     "per-service-total": {
