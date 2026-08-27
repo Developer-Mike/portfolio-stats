@@ -47,7 +47,7 @@ export default async function generateDailyDownloadsChart() {
       dailyDownloads.push({ x: new Date(date), y: delta })
     }
 
-    const projectData = dailyDownloads
+    const projectData = smooth(dailyDownloads, 3)
 
     for (const point of projectData) {
       const key = point.x.toISOString().split("T")[0]
