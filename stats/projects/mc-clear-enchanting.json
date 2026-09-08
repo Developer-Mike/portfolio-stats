@@ -3563,10 +3563,13 @@
     },
     "2026-09-07": {
       "modrinth-mod": 8011
+    },
+    "2026-09-08": {
+      "modrinth-mod": 8012
     }
   },
   "per-service-total": {
-    "modrinth-mod": 8011
+    "modrinth-mod": 8012
   },
-  "total": 8011
+  "total": 8012
 }
