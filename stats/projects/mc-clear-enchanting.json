@@ -3668,10 +3668,13 @@
     },
     "2026-10-12": {
       "modrinth-mod": 8087
+    },
+    "2026-10-13": {
+      "modrinth-mod": 8089
     }
   },
   "per-service-total": {
-    "modrinth-mod": 8087
+    "modrinth-mod": 8089
   },
-  "total": 8087
+  "total": 8089
 }
