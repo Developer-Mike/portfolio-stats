@@ -957,6 +957,9 @@
     "2026-10-29": {
       "github-release": 672
     },
+    "2026-10-30": {
+      "github-release": 690
+    },
     "2026-10-31": {
       "github-release": 707
     },
@@ -971,6 +974,15 @@
     },
     "2026-11-04": {
       "github-release": 735
+    },
+    "2026-11-05": {
+      "github-release": 738
+    },
+    "2026-11-06": {
+      "github-release": 742
+    },
+    "2026-11-07": {
+      "github-release": 745
     },
     "2026-11-08": {
       "github-release": 748
