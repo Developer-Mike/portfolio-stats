@@ -4610,11 +4610,15 @@
     "2026-11-13": {
       "curseforge-mod": 152893,
       "modrinth-mod": 798553
+    },
+    "2026-11-14": {
+      "curseforge-mod": 153308,
+      "modrinth-mod": 799530
     }
   },
   "per-service-total": {
-    "curseforge-mod": 152893,
-    "modrinth-mod": 798553
+    "curseforge-mod": 153308,
+    "modrinth-mod": 799530
   },
-  "total": 951446
+  "total": 952838
 }
