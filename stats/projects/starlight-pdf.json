@@ -1028,10 +1028,13 @@
     },
     "2026-11-22": {
       "github-release": 835
+    },
+    "2026-11-23": {
+      "github-release": 853
     }
   },
   "per-service-total": {
-    "github-release": 835
+    "github-release": 853
   },
-  "total": 835
+  "total": 853
 }
